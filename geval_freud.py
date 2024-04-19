@@ -30,7 +30,7 @@ def query(cur_prompt: str, model: str, client: openai.OpenAI) -> float:
         top_logprobs=20, # not relevant for GPT-4
         n=1 # 20 for GPT-4
     )
-    time.sleep(0.5)
+    # time.sleep(0.5)
     if model.startswith("gpt-4"):
         all_responses = [_response.choices[i].message.content 
                          for i in range(len(_response.choices))]
