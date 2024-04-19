@@ -1,0 +1,26 @@
+You will be given one dialog between a human user (USER) and a chatbot (BOT).
+
+Your task is to rate only the last chatbot's response on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Empathetical responding (1-5) - the appropriateness of the chatbot's responses to the user's emotions.
+
+Evaluation Steps:
+
+1. Read the entire conversation to understand the context and emotional tone.
+2. Focus on the last response of the chatbot.
+3. Determine how well the chatbot's response acknowledges and addresses the user's emotions.
+4. Rate the response on a scale of 1 to 5 based on its empathetic quality, considering whether it effectively empathizes with the user's emotions and responds appropriately.
+
+
+Dialog:
+
+{{Dialog}}
+
+
+Evaluation Form (scores ONLY):
+
+- Empathetical responding:

@@ -1,0 +1,26 @@
+You will be given one dialog between a human user (USER) and a chatbot (BOT).
+
+Your task is to rate only the last chatbot's response on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Attentive curiosity (1-5) - the degree to which the chatbot was paying attention to what the user was saying.
+
+Evaluation Steps:
+
+1. Read the entire dialog between the user and the bot to understand the context.
+2. Focus on the last response from the bot.
+3. Evaluate the bot's response based on the criteria of "Attentive curiosity," considering how well the bot demonstrates interest and engagement with the user's input.
+4. Assign a rating between 1 and 5 based on the bot's level of attentive curiosity in its last response.
+
+
+Dialog:
+
+{{Dialog}}
+
+
+Evaluation Form (scores ONLY):
+
+- Attentive curiosity:

@@ -1,0 +1,29 @@
+You will be given one dialog between a human user (USER) and a chatbot (BOT).
+
+Your task is to rate only the last chatbot's response on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Repetitiveness (1-5) - the degree to which the chatbot was repetitive.
+
+Evaluation Steps:
+
+1. Read the last response by the chatbot.
+2. Identify if there are any repeated phrases or ideas that have already been mentioned in previous responses.
+3. Determine the degree to which the chatbot's response is repetitive based on the number of repeated phrases or ideas.
+4. Rate the response on a scale from 1 to 5, where:
+   - 1 indicates that the response is highly repetitive, with significant duplication of content.
+   - 5 indicates that the response is not repetitive at all, with no repeated phrases or ideas.
+5. Provide a rating based on your assessment of the chatbot's response.
+
+
+Dialog:
+
+{{Dialog}}
+
+
+Evaluation Form (scores ONLY):
+
+- Repetitiveness:
