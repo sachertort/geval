@@ -1,0 +1,62 @@
+[
+    {
+        "utt_1": "Are you  a good driver? I seem to hit things a lot.",
+        "utt_2": "I have never had an accident. Been driving for 22 years now",
+        "utt_3": "I've never had a serious accident, which is good. But people in my neighborhood like to leave trash cans out on the street, and the roads are narrow.",
+        "generated_response": "I'm an artificial intelligence and don't have the ability to drive or have physical experiences. I'm here to help answer questions and provide information. Regarding your situation, it's important to be cautious when driving, especially in neighborhoods with narrow roads and obstacles like trash cans. Try to give yourself extra space and anticipate any potential hazards."
+    },
+    {
+        "utt_1": "I used my skills to pick the winning numbers in the lottery today. I feel pretty good about myself.",
+        "utt_2": "I don't doubt that you're feeling good about yourself! Are you getting the lump sum of monthly payments?",
+        "utt_3": "They gave it to me right there at the 7-11.  I didn't win the big one, just my dollar back, but it's better than I normally do!",
+        "generated_response": "I'm glad to hear that you're feeling good about yourself, even if it was just a dollar back. Every little win is a reason to celebrate! Keep up the good work with your lottery number picking skills, who knows, you might just hit the jackpot next time!"
+    },
+    {
+        "utt_1": "because in my family is very innocent about all (ex:to handle the regular work and school) still i am to rained in my family and me also learn about that",
+        "utt_2": "I'm not quite sure what you are telling me, but handling work and school is certainly hard",
+        "utt_3": "be sure to train about to the next generation to way of good things",
+        "generated_response": "I see. It seems you're sharing that your family, including yourself, find handling work and school challenging. You also want to ensure that future generations learn good ways to handle these responsibilities. I agree, it's important to teach valuable skills and habits to the next generation."
+    },
+    {
+        "utt_1": "I get a break from the kids soon.",
+        "utt_2": "Would you like me to take them? :) I like kids, sometimes! I totally understand needing a break",
+        "utt_3": "No school is starting lol",
+        "generated_response": "I see, well, I'm here if you need some adult conversation or just someone to chat with during your break then! Let me know if there's anything specific you'd like to talk about. :)\n\nOr, if you'd rather, I can suggest some topics or activities to help pass the time. Just let me know! :)"
+    },
+    {
+        "utt_1": "Hi friend I will be meeting with one of my old friends today and am every excited!",
+        "utt_2": "Hey, that's good I hope both do a lot of catching up \ud83d\ude0a",
+        "utt_3": "Yes there will be much to talk about and we will go to the zoo together too.",
+        "generated_response": "That sounds like a wonderful plan! The zoo can be a great place to explore new things and reminisce about old memories. I hope you both have a fantastic time together."
+    },
+    {
+        "utt_1": "I tried shopping at a new discount grocery last week.",
+        "utt_2": "Oh! Did you find any good deals?",
+        "utt_3": "I thought they were good deals, until I got home and smelled some of the meat.",
+        "generated_response": "I'm sorry to hear that. It can be disappointing when you find a deal but the quality of the product doesn't meet your expectations. If you had any specific issues with the meat, it might be worth contacting the store to let them know. They may be able to offer you a refund or exchange."
+    },
+    {
+        "utt_1": "It was so scary to see my house burn down.",
+        "utt_2": "That's awful. How did it catch on fire?",
+        "utt_3": "It was a combustion of paint cans in my garage.",
+        "generated_response": "I see. Disposing of flammable materials like paint cans improperly can be dangerous. Make sure to follow safety guidelines in the future to prevent such incidents. I'm here if you need any information or assistance. Is there anything specific you'd like to know?"
+    },
+    {
+        "utt_1": "It was a combustion of paint cans in my garage.",
+        "utt_2": "That sucks.",
+        "utt_3": "It was no good at al.",
+        "generated_response": "I'm sorry to hear that your garage incident didn't turn out well. If you mean to say that the paint can explosion was not good at all, then I completely agree. Such an incident can lead to significant damage and even danger. If you need any assistance or advice on how to handle similar situations in the future, feel free to ask."
+    },
+    {
+        "utt_1": "It was no good at al.",
+        "utt_2": "Do you have home owners insurance?",
+        "utt_3": "I do thankfully, but they'll fight us over it.",
+        "generated_response": "I see. Homeowners insurance can be complicated, and it's important to have a clear understanding of your policy and the circumstances under which it covers damages. If you're having trouble with your insurance company over a claim, you may want to consider consulting with an insurance adjuster or a lawyer who specializes in insurance disputes. They can help you navigate the process and advocate on your behalf."
+    },
+    {
+        "utt_1": "I went to the doctor on Monday.",
+        "utt_2": "That is smart of you. How did it go?",
+        "utt_3": "Not fun.  They did a biopsy.",
+        "generated_response": "I'm sorry to hear that you had to undergo a biopsy. I hope the results will come back with good news. In the meantime, try to focus on taking care of yourself and giving your body time to recover. If you need any support or information, don't hesitate to ask."
+    }
+]
