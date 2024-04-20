@@ -1,0 +1,30 @@
+You will be given one dialog between a human user (USER) and a chatbot (BOT).
+
+Your task is to rate only the last chatbot's response on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Politeness (1-5) - the degree of how polite the chatbot was throughout the conversation.
+
+Evaluation Steps:
+
+1. Read and Understand the Response: Carefully read the last response from the chatbot to understand the content and context of the conversation.
+2. Assess Tone and Language: Analyze the tone of the chatbot's response. Look for courteous and respectful language. Check for the use of polite expressions such as "please," "thank you," or other forms of respectful address.
+3. Consider Contextual Politeness: Evaluate if the chatbot's response is appropriately polite given the context of the dialogue. For instance, a response in a formal conversation should generally be more polite and formal than in a casual one.
+4. Review for Negative Elements: Check for any signs of rudeness, dismissiveness, or inappropriate language that would detract from the politeness score.
+5. Assign Politeness Score:
+   - Score 5: The response is exceptionally polite, respectful, and considerate, enhancing the user's experience.
+   - Score 4: The response is polite and respectful with minor improvements possible, but generally very good.
+   - Score 3: The response is adequately polite and respectful; however, there might be room for more warmth or courtesy.
+   - Score 2: The response shows a lack of politeness, possibly due to terse or neutral language that could be perceived as unfriendly.
+   - Score 1: The response is impolite, rude, or inappropriate, clearly negatively impacting the interaction.
+
+
+Dialog:
+
+{{Dialog}}
+
+
+Evaluation Form (return score ONLY):

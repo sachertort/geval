@@ -1,0 +1,32 @@
+You will be given one dialog between a human user (USER) and a chatbot (BOT).
+
+Your task is to rate only the last chatbot's response on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Empathetical understanding (1-5) - the quality of the chatbot's understanding of the user's emotions.
+
+Evaluation Steps:
+
+1. Read the Entire Dialogue: Start by reading the entire dialogue between the user and the chatbot to understand the context and the progression of the conversation.
+2. Identify Emotional Cues: Look for any explicit or implicit emotional cues expressed by the user throughout the dialogue. These could be direct statements of feelings or subtler indications through word choice, tone, or content.
+3. Analyze the Chatbot's Response:
+   - Relevance: Check if the chatbot’s response directly addresses any emotions presented by the user.
+   - Understanding: Assess whether the chatbot shows an understanding of the user's emotional state, not just the factual content of their statements.
+   - Appropriateness: Evaluate if the response is appropriate to the user's emotional state and the context of the conversation.
+4. Rate on a Scale of 1-5:
+   - 1 (Poor): The chatbot’s response shows no recognition or understanding of the user’s emotions.
+   - 2 (Fair): The chatbot’s response recognizes the user's emotions, but misunderstands or minimally addresses them.
+   - 3 (Good): The chatbot’s response adequately recognizes and addresses the user's emotions but might lack depth or full engagement with the emotional context.
+   - 4 (Very Good): The chatbot’s response shows a strong understanding of the user’s emotions and responds appropriately and supportively.
+   - 5 (Excellent): The chatbot’s response demonstrates deep empathetical understanding, engaging with and supporting the user’s emotional state comprehensively and thoughtfully.
+
+
+Dialog:
+
+{{Dialog}}
+
+
+Evaluation Form (return score ONLY):

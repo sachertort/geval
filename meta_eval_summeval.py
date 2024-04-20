@@ -32,9 +32,9 @@ def parse_output(output):
         try:
             score = float(matched.group(1))
         except:
-            score = 0
+            score = None
     else:
-        score = 0
+        score = None
     return score
 
 

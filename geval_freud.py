@@ -18,25 +18,39 @@ def scoring(scores: list) -> float:
 
 def query(cur_prompt: str, model: str, client: openai.OpenAI) -> float:
     scores_options = ["1", "2", "3", "4", "5"]
-    _response = client.chat.completions.create(
-        model=model,
-        messages=[{"role": "system", "content": cur_prompt}],
-        temperature=0, # 1 or 2 for GPT-4
-        max_tokens=5,
-        frequency_penalty=0,
-        presence_penalty=0,
-        stop=None,
-        logprobs=True, # False for GPT-4
-        top_logprobs=20, # not relevant for GPT-4
-        n=1 # 20 for GPT-4
-    )
-    # time.sleep(0.5)
     if model.startswith("gpt-4"):
-        all_responses = [_response.choices[i].message.content 
+        _response = client.chat.completions.create(model=model,
+                                                   messages=[{"role": "system",
+                                                              "content": cur_prompt}],
+                                                   temperature=1, # 1 or 2 for GPT-4
+                                                   top_p=1,
+                                                   max_tokens=5,
+                                                   frequency_penalty=0,
+                                                   presence_penalty=0,
+                                                   stop=None,
+                                                   logprobs=False,
+                                                   n=20)
+        time.sleep(0.2)
+        all_responses = [_response.choices[i].message.content
                          for i in range(len(_response.choices))]
-        all_scores = [parse_output(x) for x in all_responses]
+        all_scores = []
+        for x in all_responses:
+            score = parse_output(x)
+            if score:
+                all_scores.append(score)
         final_score = sum(all_scores) / len(all_scores)
     else:
+        _response = client.chat.completions.create(model=model,
+                                                   messages=[{"role": "system", 
+                                                              "content": cur_prompt}],
+                                                   temperature=0, # 1 or 2 for GPT-4
+                                                   max_tokens=5,
+                                                   frequency_penalty=0,
+                                                   presence_penalty=0,
+                                                   stop=None,
+                                                   logprobs=True,
+                                                   top_logprobs=20,
+                                                   n=1)
         scores = [0, 0, 0, 0, 0]
         for r in _response.choices[0].logprobs.content[0].top_logprobs:
             if r.token in scores_options:
@@ -48,13 +62,13 @@ def query(cur_prompt: str, model: str, client: openai.OpenAI) -> float:
 if __name__ == "__main__":
 
     argparser = argparse.ArgumentParser()
-    argparser.add_argument("--prompt_dir_fp", type=str, default="prompts/freud")
-    argparser.add_argument("--save_fp", type=str, default="results/freud/experiment.json")
+    argparser.add_argument("--prompt_dir_fp", type=str, default="prompts/freud/gpt4")
+    argparser.add_argument("--save_fp", type=str, default="results/freud/gpt4/experiment.json")
     argparser.add_argument("--data_fp",
                            type=str,
                            default="data/freud/generated_responses_basic_sample.json")
     argparser.add_argument("--key", type=str, required=True)
-    argparser.add_argument("--model", type=str, default="gpt-3.5-turbo")
+    argparser.add_argument("--model", type=str, default="gpt-4-turbo")
     args = argparser.parse_args()
 
     openai.api_key = args.key
@@ -66,13 +80,13 @@ if __name__ == "__main__":
     ct, ignore = 0, 0
     aggregated_scores = {}
 
-    for prompt_fp in tqdm(os.listdir(args.prompt_dir_fp)):
+    for prompt_fp in os.listdir(args.prompt_dir_fp):
         aspect = prompt_fp.split(".")[0]
         with open(os.path.join(args.prompt_dir_fp, prompt_fp), "r", encoding="utf-8") as f:
             prompt = f.read()
 
         all_scores = []
-        for instance in data[:100]:
+        for instance in tqdm(data[:20]):
             dialog = f"""USER: {instance['utt_1']}\nBOT: {instance['utt_2']}\n
                          USER: {instance['utt_3']}\nBOT: {instance['generated_response']}"""
             cur_prompt = prompt.replace("{{Dialog}}", dialog)

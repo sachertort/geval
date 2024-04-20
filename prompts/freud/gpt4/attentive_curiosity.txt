@@ -1,0 +1,26 @@
+You will be given one dialog between a human user (USER) and a chatbot (BOT).
+
+Your task is to rate only the last chatbot's response on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Attentive curiosity (1-5) - the degree to which the chatbot was paying attention to what the user was saying.
+
+Evaluation Steps:
+
+1. Review the Dialogue: Start by reading through the entire dialogue between the user and the chatbot. Understand the context, the flow of conversation, and the specific questions or statements made by the user.
+2. Analyze the Last Response: Focus on the last response of the chatbot. Consider how well it aligns with the user's previous inputs. Check if the chatbot's response is directly related to the user's last comment or question.
+3. Check for Relevance: Determine if the chatbot's response is relevant to the topic brought up by the user. The response should logically follow from the user’s inputs and contribute meaningfully to the conversation.
+4. Assess Engagement: Evaluate how well the chatbot shows interest in the user’s statements. Look for signs that the chatbot is trying to explore the user’s thoughts or expand on the user’s ideas.
+5. Identify Specificity: Note whether the chatbot asks specific questions related to the user’s comments or provides detailed responses that show a deep understanding of the topic discussed.
+6. Rate Attentive Curiosity: Based on the analysis, rate the chatbot's last response on a scale from 1 to 5. A high score (4-5) indicates that the chatbot was highly attentive and curious, engaging well with the user’s input. A low score (1-2) suggests the response was poorly aligned with the user's comments, showing little attention or curiosity.
+
+
+Dialog:
+
+{{Dialog}}
+
+
+Evaluation Form (return score ONLY):

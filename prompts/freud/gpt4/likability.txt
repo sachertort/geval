@@ -1,0 +1,26 @@
+You will be given one dialog between a human user (USER) and a chatbot (BOT).
+
+Your task is to rate only the last chatbot's response on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Likability (1-5) - the degree to which the chatbot is likable.
+
+Evaluation Steps:
+
+1. Understand the Context: Review the entire conversation to understand the context and the flow of the interaction. This helps in determining how well the chatbot's response aligns with the previous messages and the user's intent.
+2. Assess Tone and Politeness: Evaluate the tone of the chatbot's response. A likable response should be friendly, polite, and respectful, regardless of the user's tone. 
+3. Check for Relevance and Appropriateness: Determine if the response is relevant to the user's previous message or query. The response should be appropriate to the topic and should maintain the conversation's flow.
+4. Evaluate Engagement and Encouragement: A likable chatbot not only answers questions but also engages the user in a meaningful way, possibly encouraging further conversation. The response should add value and show an understanding or anticipation of the user's needs.
+5. Observe Personalization and Empathy: If applicable, check if the chatbot personalizes the interaction (without violating privacy norms) or shows empathy towards the user’s situation, which can significantly enhance likability.
+6. Rate Likability: Based on the above criteria, rate the chatbot's response on a scale of 1 to 5, where 1 is not likable at all and 5 is extremely likable. Consider all aspects of the response, such as content, tone, relevance, engagement, and personalization.
+
+
+Dialog:
+
+{{Dialog}}
+
+
+Evaluation Form (return score ONLY):

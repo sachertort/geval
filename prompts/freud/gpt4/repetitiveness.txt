@@ -1,0 +1,30 @@
+You will be given one dialog between a human user (USER) and a chatbot (BOT).
+
+Your task is to rate only the last chatbot's response on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Repetitiveness (1-5) - the degree to which the chatbot was repetitive.
+
+Evaluation Steps:
+
+1. Read the Entire Dialogue: Understand the context and content of the conversation between the user and the chatbot by reading through the entire dialogue provided. Pay attention to both parties' contributions.
+2. Focus on the Last Chatbot's Response: Direct your attention specifically to the last response given by the chatbot in the dialogue. This is the part of the conversation you are evaluating for repetitiveness.
+3. Identify Repetitive Content: Check if the chatbot's last response includes phrases, sentences, or ideas that were repeated from earlier in the conversation or within the response itself. Consider both exact repetitions and paraphrased content that essentially repeats the same message.
+4. Assess the Degree of Repetitiveness:
+   - Rating 1 (Very Repetitive): The response is highly repetitive, reiterating the same content multiple times with little to no additional information or variation.
+   - Rating 2 (Repetitive): Contains several repetitions from earlier parts of the conversation or within the response itself, but may include some new information.
+   - Rating 3 (Moderately Repetitive): There are some repetitions, but they are balanced with new content or useful for clarity or emphasis.
+   - Rating 4 (Slightly Repetitive): The response includes minimal repetition, potentially for reinforcing an idea or ensuring understanding.
+   - Rating 5 (Not Repetitive): The response is free from repetition, providing new or succinctly summarized information without reiterating previous content.
+5. Assign a Rating: Based on your analysis, assign a rating from 1 to 5 according to the scale provided. Ensure the rating accurately reflects the degree of repetitiveness observed in the chatbot's last response.
+
+
+Dialog:
+
+{{Dialog}}
+
+
+Evaluation Form (return score ONLY):

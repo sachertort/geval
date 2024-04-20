@@ -1,0 +1,33 @@
+You will be given one dialog between a human user (USER) and a chatbot (BOT).
+
+Your task is to rate only the last chatbot's response on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Empathetical responding (1-5) - the appropriateness of the chatbot's responses to the user's emotions.
+
+Evaluation Steps:
+
+1. Read the Entire Conversation: Understanding the context is crucial. Note any emotional cues or concerns raised by the user throughout the dialogue.
+2. Identify the User’s Emotion: Determine the primary emotion or emotions expressed by the user in their last interaction. This could range from happiness, sadness, and frustration, to excitement, worry, or neutrality.
+3. Analyze the Chatbot's Response:
+   - Relevance: Assess whether the chatbot's response directly addresses the user's previous statements or emotional cues.
+   - Tone Matching: Evaluate whether the chatbot's tone matches the emotional tone of the user. For instance, a supportive tone for a user expressing worry, or an enthusiastic response to a user’s excitement.
+   - Supportiveness/Understanding: Determine if the chatbot's response shows understanding or offers support relevant to the user’s expressed feelings or situation.
+   - Constructiveness: Check if the response provides constructive feedback, guidance, or actionable suggestions when appropriate.
+4. Rate the Response: Based on the analysis, rate the response on a scale from 1 to 5 for empathetical responding, where:
+   - 1: Indicates a complete lack of empathy, misunderstanding, or inappropriate response to the user’s emotions.
+   - 2: Shows minimal empathy, with slight relevance or support but largely misses the emotional context.
+   - 3: Reflects a moderate level of empathy, appropriately recognizing the user's emotions, though there may be some room for improvement in support or relevance.
+   - 4: Demonstrates strong empathy, with a well-matched tone and understanding of the user’s emotional state, providing good support or constructive feedback.
+   - 5: Represents an excellent level of empathy, with the response perfectly aligned with the user's emotions, showing deep understanding, appropriate support, and enhancing the conversation.
+
+
+Dialog:
+
+{{Dialog}}
+
+
+Evaluation Form (return score ONLY):

@@ -1,0 +1,32 @@
+You will be given one dialog between a human user (USER) and a chatbot (BOT).
+
+Your task is to rate only the last chatbot's response on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Response-relatedness (1-5) - the degree to which the chatbot's responses made sense given the user's inputs.
+
+Evaluation Steps:
+
+1. Read the Interaction: Begin by carefully reading through the entire dialogue between the human user and the chatbot. Understanding the context of their conversation is essential.
+2. Identify Key Information: Focus on the user's input that directly precedes the chatbot's last response. This is critical because the relevance of the chatbot's response depends heavily on this specific input.
+3. Analyze the Chatbot's Response: Examine how the chatbot's last response addresses the user's preceding input. Consider whether the response:
+   - Directly answers any questions posed by the user.
+   - Appropriately addresses the topic or continues the conversation's theme.
+   - Adds relevant information, context, or clarification to the conversation.
+4. Rate the Response-Relatedness: Using the provided 1-5 scale, determine the response-relatedness of the chatbot's last response.
+   - 5: The response is highly relevant and directly addresses all aspects of the user's input.
+   - 4: The response is mostly relevant but may overlook minor details or add unnecessary information.
+   - 3: The response is generally relevant but misses some important elements or partially misinterprets the user's input.
+   - 2: The response is tangentially related but significantly misses the mark on understanding or addressing the user's input.
+   - 1: The response is unrelated or completely disregards the user's input.
+
+
+Dialog:
+
+{{Dialog}}
+
+
+Evaluation Form (return score ONLY):
