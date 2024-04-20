@@ -72,11 +72,11 @@ if __name__ == "__main__":
             prompt = f.read()
 
         all_scores = []
-        for instance in data:
+        for instance in data[:100]:
             dialog = f"""USER: {instance['utt_1']}\nBOT: {instance['utt_2']}\n
                          USER: {instance['utt_3']}\nBOT: {instance['generated_response']}"""
             cur_prompt = prompt.replace("{{Dialog}}", dialog)
-            instance["prompt"] = cur_prompt
+            # instance["prompt"] = cur_prompt
             while True:
                 try:
                     final_score = query(cur_prompt, args.model, client)
