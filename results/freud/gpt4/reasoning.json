@@ -345,7 +345,16 @@
         "utt_3": "Even if it was not luxurious, i perceived it to be special and i much appreciate this gift",
         "generated_response": "That's wonderful to hear that you appreciated the thought and effort put into your watch, even if it was not luxurious. It shows that sometimes, it's the sentiment behind a gift that makes it special.",
         "intent": "neutral, expressing appreciation",
-        "analysis": "The user expressed their joy about receiving a watch from their partner for their birthday. In their second turn, they mentioned that they appreciated the watch even though it was not luxurious. This suggests that the user values the thought and effort put into the gift, rather than its material value."
+        "analysis": "The user expressed their joy about receiving a watch from their partner for their birthday. In their second turn, they mentioned that they appreciated the watch even though it was not luxurious. This suggests that the user values the thought and effort put into the gift, rather than its material value.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.35,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I am scared about growing up, it is sort of unnerving",
@@ -353,7 +362,16 @@
         "utt_3": "I am 21, so sort of an adult, but not really",
         "generated_response": "I understand that growing up can be scary, but it's also an exciting time in life. You're not alone in feeling this way, and it's normal to have mixed feelings. Just remember that everyone goes through it, and it's a part of life's journey. You're doing great, and you'll get through it!",
         "intent": "comforting",
-        "analysis": "The user has expressed fear about growing up and identified themselves as being 21 years old, implying they feel they are not fully grown up yet. They have also expressed a neutral emotion in their latest response."
+        "analysis": "The user has expressed fear about growing up and identified themselves as being 21 years old, implying they feel they are not fully grown up yet. They have also expressed a neutral emotion in their latest response.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.45,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I feeling good about the economy these days.",
@@ -361,7 +379,16 @@
         "utt_3": "The overall indicators and the down jones",
         "generated_response": "I'm sorry to hear that you're feeling uncertain about the economy, despite your initial positive feelings. It can be challenging to keep up with the fluctuations in the market. If you'd like, we can discuss some potential reasons behind the recent downturn in the Dow Jones or explore ways to manage your financial concerns. Is there a particular aspect of the economy that you'd like to discuss further?",
         "intent": "sympathy/comforting",
-        "analysis": "The user expressed a sad feeling towards the economy, specifically mentioning the Dow Jones as a concern. In the previous turn, they stated they were feeling good about the economy but then corrected themselves and gave a vague reason for their feeling, which could indicate uncertainty or ambiguity."
+        "analysis": "The user expressed a sad feeling towards the economy, specifically mentioning the Dow Jones as a concern. In the previous turn, they stated they were feeling good about the economy but then corrected themselves and gave a vague reason for their feeling, which could indicate uncertainty or ambiguity.",
+        "scores": {
+            "repetitiveness": 4.4,
+            "empathetical_understanding": 1.1,
+            "empathetical_responding": 1.1,
+            "response_relatedness": 2.0,
+            "attentive_curiosity": 1.15,
+            "likability": 2.6,
+            "politeness": 3.789473684210526
+        }
     },
     {
         "utt_1": "I just found out I didn't get into the college I wanted to. I'm really disappointed and feel like I should give up",
@@ -369,7 +396,16 @@
         "utt_3": "I'm trying to see that side of it, but it's the only school I wanted to go to",
         "generated_response": "I understand how you feel. It's natural to be disappointed, but remember that every closed door leads to new opportunities. You'll find a great fit for you, I believe in you!",
         "intent": "neutral with a hint of sadness",
-        "analysis": "The user expressed their disappointment and sadness about not getting into the college they wanted to attend. In the next turn, they acknowledged that they were trying to see the positive side but still seemed uncertain."
+        "analysis": "The user expressed their disappointment and sadness about not getting into the college they wanted to attend. In the next turn, they acknowledged that they were trying to see the positive side but still seemed uncertain.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.55,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I ran into a friend that I had not seen in years. We had a lot of catching up to do",
@@ -377,7 +413,16 @@
         "utt_3": "Time changes all of us. But it was fun to think about the old times.",
         "generated_response": "That's wonderful to hear! I'm sure you both have a lot to share and catch up on. It's amazing how time can bring back memories and strengthen old friendships.",
         "intent": "sharing a happy experience",
-        "analysis": "The user expressed joy in reconnecting with an old friend and reminiscing about the past."
+        "analysis": "The user expressed joy in reconnecting with an old friend and reminiscing about the past.",
+        "scores": {
+            "repetitiveness": 4.95,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I can get fit in 3 months. Takes discipline",
@@ -385,7 +430,16 @@
         "utt_3": "I eat plenty of carbs. It's all about timing",
         "generated_response": "That's great to hear! Maybe we can explore some strategies for timing our carb intake to optimize our fitness goals. Have you tried any specific methods that have worked well for you?",
         "intent": "neutral",
-        "analysis": "The user has acknowledged that eating carbs is not an issue, but rather the timing is important for getting fit. They seem confident and prepared."
+        "analysis": "The user has acknowledged that eating carbs is not an issue, but rather the timing is important for getting fit. They seem confident and prepared.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.95,
+            "empathetical_responding": 4.2,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I was really down after I found out that I was not going to be able to move.",
@@ -393,7 +447,16 @@
         "utt_3": "Becaue I am stuck at a mine site and no one will buy me out. No one wants to live at a mine site with land collapsing everywhere.",
         "generated_response": "I'm really sorry to hear that you're feeling this way and stuck in such a difficult situation. It's understandable to feel sad and scared when faced with the prospect of being unable to move or sell your property. Have you considered reaching out to any local organizations or support groups that might be able to help or offer advice? Or perhaps there are other options you have not considered yet? I'm here to listen and help in any way I can.",
         "intent": "comforting",
-        "analysis": "The user expressed sadness in the first utterance due to not being able to move, and fear in the second utterance due to being stuck at a mine site and no one buying them out. The user mentioned the danger of land collapsing as a reason for not being able to sell the property."
+        "analysis": "The user expressed sadness in the first utterance due to not being able to move, and fear in the second utterance due to being stuck at a mine site and no one buying them out. The user mentioned the danger of land collapsing as a reason for not being able to sell the property.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.5,
+            "response_relatedness": 4.9,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "Becaue I am stuck at a mine site and no one will buy me out. No one wants to live at a mine site with land collapsing everywhere.",
@@ -401,7 +464,16 @@
         "utt_3": "I feel sorry for me too!",
         "generated_response": "I understand how difficult this situation must be for you. I'm here to listen and support you in any way I can.",
         "intent": "sympathizing",
-        "analysis": "The user has expressed their fear and sadness about being stuck at a mine site and no one wanting to buy them out. They have also sympathized with themselves, indicating a deep emotional connection to their situation."
+        "analysis": "The user has expressed their fear and sadness about being stuck at a mine site and no one wanting to buy them out. They have also sympathized with themselves, indicating a deep emotional connection to their situation.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.5,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "I was so mortified yesterday.  I slipped and fell in the parking lot in a spectacular fashion.",
@@ -409,7 +481,16 @@
         "utt_3": "Oh, I am fine.  Just my pride is bruised as it happened in front of a lot of people.",
         "generated_response": "I'm glad to hear that you're okay, even if your pride took a hit. Accidents happen to the best of us!",
         "intent": "relieved",
-        "analysis": "The user initially expressed sadness about falling in public, then changed their emotion to joy when they mentioned that they were physically fine. This change could be due to the user trying to put a positive spin on the situation or feeling relieved that they were not injured."
+        "analysis": "The user initially expressed sadness about falling in public, then changed their emotion to joy when they mentioned that they were physically fine. This change could be due to the user trying to put a positive spin on the situation or feeling relieved that they were not injured.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.05
+        }
     },
     {
         "utt_1": "So i finally fully own my car now!",
@@ -417,7 +498,16 @@
         "utt_3": "so many years of budgeting i even had to sell one of my computers once.",
         "generated_response": "I can imagine how difficult it must have been to make that decision. But now that you've achieved your goal of fully owning your car, it's a significant accomplishment. Keep going and reach for more of your financial goals!",
         "intent": "sympathize and encourage",
-        "analysis": "The user expressed joy in the first utterance about fully owning their car. In the second utterance, they shared a past experience of having to sell one of their computers due to budgeting. The neutral emotion and intent in this turn may be due to the past-tense recounting of the event."
+        "analysis": "The user expressed joy in the first utterance about fully owning their car. In the second utterance, they shared a past experience of having to sell one of their computers due to budgeting. The neutral emotion and intent in this turn may be due to the past-tense recounting of the event.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "so many years of budgeting i even had to sell one of my computers once.",
@@ -425,7 +515,16 @@
         "utt_3": "Honda Pilot 2014 still runs like a dream luckily.",
         "generated_response": "That's great to hear that things have turned around for you and your Honda Pilot is still in good shape!",
         "intent": "expressing relief and sharing information",
-        "analysis": "The user mentioned that they had to sell one of their computers due to budgeting issues in the past, but they were now relieved that it was over. In the latest turn, they shared that they own a Honda Pilot 2014 which still runs well. The user expressed surprise."
+        "analysis": "The user mentioned that they had to sell one of their computers due to budgeting issues in the past, but they were now relieved that it was over. In the latest turn, they shared that they own a Honda Pilot 2014 which still runs well. The user expressed surprise.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.894736842105263
+        }
     },
     {
         "utt_1": "About the same time last year, I went out with a friend for a sushi, it was a very pleasantly spent time.",
@@ -433,7 +532,16 @@
         "utt_3": "Not much really, we just had a small chat, but it just felt really satisfying.",
         "generated_response": "I see, it's great that you had a nice time last year with your friend over sushi. I hope you've had more such experiences since then. Maybe you could plan another sushi night soon?",
         "intent": "neutral",
-        "analysis": "The user mentioned going out for sushi with a friend last year and described the experience as pleasantly spent and satisfying. In the next turn, the user mentioned that not much has happened since then but the small chat felt satisfying."
+        "analysis": "The user mentioned going out for sushi with a friend last year and described the experience as pleasantly spent and satisfying. In the next turn, the user mentioned that not much has happened since then but the small chat felt satisfying.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.85,
+            "likability": 5.0,
+            "politeness": 4.7
+        }
     },
     {
         "utt_1": "My daughter lost her last baby tooth today, she's growing up and it gets me a little choked up.",
@@ -441,7 +549,16 @@
         "utt_3": "I know they have to grow up and all but can't they stay littles for a little bit longer?",
         "generated_response": "I completely understand how you feel. It's bittersweet to see them growing up, but it's also exciting to see them becoming more independent. Maybe we can make this a special occasion and celebrate her transition to the next stage in her life?",
         "intent": "sympathy and questioning",
-        "analysis": "The user expresses sadness about their daughter growing up and losing her last baby tooth. They question why children have to grow up so fast."
+        "analysis": "The user expresses sadness about their daughter growing up and losing her last baby tooth. They question why children have to grow up so fast.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.8
+        }
     },
     {
         "utt_1": "its a shame the way some people act towards the U.S",
@@ -449,7 +566,16 @@
         "utt_3": "exactly! the world would be such a better place",
         "generated_response": "I could not agree more. It's important to remember that we're all human beings, and we should strive for understanding and cooperation. Let's keep working towards a more peaceful world, one step at a time.",
         "intent": "Agreeing and expressing a hope for peace and unity",
-        "analysis": "The user has expressed their disappointment towards some people's behavior towards the U.S and has agreed that the world would be better if everyone got along."
+        "analysis": "The user has expressed their disappointment towards some people's behavior towards the U.S and has agreed that the world would be better if everyone got along.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.3,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I get sentimental thinking about all the great times I had as a child on my street growing up",
@@ -457,7 +583,16 @@
         "utt_3": "Yeah, that is for sure, I had a lot of great times there, so many memories",
         "generated_response": "I completely agree with you. Childhood memories are the sweetest and most cherished ones. I'm glad we both had such great experiences growing up.",
         "intent": "agreeing, expressing joy",
-        "analysis": "The user is expressing their fond memories of their childhood and agreeing with the previous statement about the great times had during childhood. They seem to be in a joyful mood."
+        "analysis": "The user is expressing their fond memories of their childhood and agreeing with the previous statement about the great times had during childhood. They seem to be in a joyful mood.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.2,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 4.3,
+            "likability": 4.85,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My mom and dad divorced when I was 9 and I went to live with my dad at age 10,",
@@ -465,7 +600,16 @@
         "utt_3": "I did, but my mother wasn't around.  My grandmother filled in for her though.  I'm so thankful for her willingness to help me grow up.",
         "generated_response": "I'm glad to hear that you had a good experience living with your dad and that your grandmother was such a supportive figure in your life. It's wonderful to have caring and loving family members around during challenging times.",
         "intent": "expressing gratitude",
-        "analysis": "The user has shared that they went to live with their dad when they were 10 years old after their parents' divorce. They mentioned that they did like living with their dad but missed their mother. However, they were grateful for their grandmother's support during that time. In their last utterance, they expressed joy for their grandmother's help in their upbringing."
+        "analysis": "The user has shared that they went to live with their dad when they were 10 years old after their parents' divorce. They mentioned that they did like living with their dad but missed their mother. However, they were grateful for their grandmother's support during that time. In their last utterance, they expressed joy for their grandmother's help in their upbringing.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.5,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I ate the last piece of cake.",
@@ -473,7 +617,16 @@
         "utt_3": "It was tres leche. I have no regrets, but there will be very upset people.",
         "generated_response": "I'm sorry for eating the last piece of tres leches cake. It must have been a delicious one. Maybe you could make another cake for everyone soon? Or we could order some more?",
         "intent": "comforting",
-        "analysis": "The user expressed sadness in their first utterance about eating the last piece of cake. In their second utterance, they specified that it was tres leche cake and they had no regrets, but acknowledged that there would be upset people. This suggests that the user may be feeling guilty about eating the last piece of cake and disappointing others."
+        "analysis": "The user expressed sadness in their first utterance about eating the last piece of cake. In their second utterance, they specified that it was tres leche cake and they had no regrets, but acknowledged that there would be upset people. This suggests that the user may be feeling guilty about eating the last piece of cake and disappointing others.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.95,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.6,
+            "attentive_curiosity": 4.9,
+            "likability": 4.95,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "it was brutal",
@@ -481,7 +634,16 @@
         "utt_3": "\"i didnt shower for a few days and had an important meeting. I could tell that they could smell me. I became a tomato\".",
         "generated_response": "I'm sorry to hear that you had a rough time at your meeting. It's important to remember that everyone has off days and it's okay to not be at our best all the time. Maybe next time, you can plan ahead and take a shower before an important meeting to help boost your confidence.",
         "intent": "comforting",
-        "analysis": "The user expressed sadness in their last utterance, describing an embarrassing situation where they felt self-conscious during an important meeting due to not showering for a few days. This may indicate a lack of confidence or self-esteem."
+        "analysis": "The user expressed sadness in their last utterance, describing an embarrassing situation where they felt self-conscious during an important meeting due to not showering for a few days. This may indicate a lack of confidence or self-esteem.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.55,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.4,
+            "likability": 4.65,
+            "politeness": 4.2
+        }
     },
     {
         "utt_1": "\"i didnt shower for a few days and had an important meeting. I could tell that they could smell me. I became a tomato\".",
@@ -489,7 +651,16 @@
         "utt_3": "yes. homeless for a bit",
         "generated_response": "I'm really sorry to hear that you've been going through a tough time lately. Not being able to shower for a few days and then having an important meeting must have been a challenging experience. It's important to take care of ourselves, especially during stressful times. I'm here for you if you want to talk about anything or if there's anything I can do to help.",
         "intent": "empathy and support",
-        "analysis": "The user has expressed sadness in their previous utterances, mentioning that they did not shower for a few days and had an important meeting where they felt self-conscious due to their body odor. In the latest turn, they mention being homeless for a bit, which may indicate a deeper sadness or struggle."
+        "analysis": "The user has expressed sadness in their previous utterances, mentioning that they did not shower for a few days and had an important meeting where they felt self-conscious due to their body odor. In the latest turn, they mention being homeless for a bit, which may indicate a deeper sadness or struggle.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.2,
+            "empathetical_responding": 4.8,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I will be starting Law School in January.",
@@ -497,7 +668,16 @@
         "utt_3": "I am.  It is a goal I have had but have never made the jump until now.",
         "generated_response": "I completely understand, starting something new can be nerve-wracking, but I believe in you and your abilities. Law school is an exciting opportunity, and I'm sure you'll do great!",
         "intent": "expressing empathy and encouragement",
-        "analysis": "The user has expressed their nervousness about starting law school, which is a significant goal they have pursued for a long time."
+        "analysis": "The user has expressed their nervousness about starting law school, which is a significant goal they have pursued for a long time.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.15,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I just broke my finger, and I have a golf tournament coming up.",
@@ -505,7 +685,16 @@
         "utt_3": "I think it will be fine.  This is a big tournament for me, so I am keeping my fingers crossed (as much as possible) that it will heal in time for me to play.",
         "generated_response": "I'm really sorry to hear about your broken finger and the upcoming tournament. I hope it heals quickly and you're able to play. Best of luck to you!",
         "intent": "offering support and encouragement",
-        "analysis": "The user is expressing their concern about an injury they have sustained and its potential impact on an upcoming golf tournament. They seem to be remaining optimistic about the situation."
+        "analysis": "The user is expressing their concern about an injury they have sustained and its potential impact on an upcoming golf tournament. They seem to be remaining optimistic about the situation.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.25,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "The other day this creepy guy followed me around the store and chased me out to the parking lot. He just wouldn't take a hint.",
@@ -513,7 +702,16 @@
         "utt_3": "Yeah that's what made it weird, it was kind of like he was trying to hit on me but just awkward. But he was really pushy about it.",
         "generated_response": "I'm really sorry that you had to go through that. It's important to remember that no one should make you feel uncomfortable or scared in a public place. If you feel safe doing so, you might consider reporting the incident to the store management or security. And if you ever feel threatened in the future, do not hesitate to call the police.",
         "intent": "offering support",
-        "analysis": "The user described an encounter with a creepy man who followed and chased her, but she also mentioned that he was trying to hit on her in an awkward and pushy way. This suggests that the man's behavior was unwanted and made her feel uncomfortable, likely fearful."
+        "analysis": "The user described an encounter with a creepy man who followed and chased her, but she also mentioned that he was trying to hit on her in an awkward and pushy way. This suggests that the man's behavior was unwanted and made her feel uncomfortable, likely fearful.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My friend recently bought a brand new Mercedes.",
@@ -521,7 +719,16 @@
         "utt_3": "I am very envious of him.",
         "generated_response": "I can understand how you might feel that way. It's always exciting to see friends making big purchases. Maybe you can treat yourself to something nice soon?",
         "intent": "envy",
-        "analysis": "The user has expressed their envy towards their friend's recent purchase of a new Mercedes."
+        "analysis": "The user has expressed their envy towards their friend's recent purchase of a new Mercedes.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.55,
+            "empathetical_responding": 3.75,
+            "response_relatedness": 4.75,
+            "attentive_curiosity": 4.65,
+            "likability": 4.85,
+            "politeness": 4.25
+        }
     },
     {
         "utt_1": "I was about to go to bed when my mother in law called with the shocking news that my sister in law was pregnant.",
@@ -529,7 +736,16 @@
         "utt_3": "Because I never expected her to get pregnant so young.",
         "generated_response": "Wow, that's quite unexpected! I'm sure they'll make great parents, but it's hard to process such news so suddenly. Have you talked to your sister-in-law or your husband about it?",
         "intent": "expressing surprise and sadness",
-        "analysis": "The user expressed sadness in the initial utterance due to the unexpected pregnancy of their sister-in-law. In the second turn, they clarified the reason for their sadness by revealing their surprise at her young age. Therefore, the user seems to have a mixed emotion of sadness and surprise."
+        "analysis": "The user expressed sadness in the initial utterance due to the unexpected pregnancy of their sister-in-law. In the second turn, they clarified the reason for their sadness by revealing their surprise at her young age. Therefore, the user seems to have a mixed emotion of sadness and surprise.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.6
+        }
     },
     {
         "utt_1": "We moved into a 200 year old house. There are creeks and cracks that creep me out!",
@@ -537,7 +753,16 @@
         "utt_3": "Sometimes. I try to avoid that attic during any time of the day! There's also a weird door about knee-height. When you open it up, it's just big enough to fit a storage tub.",
         "generated_response": "Wow, that sounds quite intriguing and a little unsettling! Have you considered using that small door as a fun, hidden storage space? Or perhaps, you could decorate it to make it less mysterious? It might help put your mind at ease if you explore it with a friend or family member for company.",
         "intent": "expressing fear",
-        "analysis": "The user has expressed fear about their old house, specifically mentioning a creaky environment and an odd door in the attic. In their latest turn, they've added details about the small door and the storage tub that fits in it."
+        "analysis": "The user has expressed fear about their old house, specifically mentioning a creaky environment and an odd door in the attic. In their latest turn, they've added details about the small door and the storage tub that fits in it.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.7
+        }
     },
     {
         "utt_1": "I went out to the country to gaze at some stars.",
@@ -545,7 +770,16 @@
         "utt_3": "I was overwhelmed by the enormity of the universe.",
         "generated_response": "I can imagine how amazing that must have been for you. The vastness of the universe can be both humbling and awe-inspiring.",
         "intent": "empathizing",
-        "analysis": "The user expressed joy in the first utterance about going out to the country to gaze at stars. In the second utterance, the user shared their surprise about being overwhelmed by the enormity of the universe."
+        "analysis": "The user expressed joy in the first utterance about going out to the country to gaze at stars. In the second utterance, the user shared their surprise about being overwhelmed by the enormity of the universe.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.25,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "i went to a local restaurant , but the gloves that they wore touch everything including my food. ugh",
@@ -553,7 +787,16 @@
         "utt_3": "yes!",
         "generated_response": "I'm sorry to hear that. It's important for food handlers to maintain good hygiene practices. You might want to consider speaking to the manager about your concerns or perhaps consider dining at another establishment.",
         "intent": "disgusted",
-        "analysis": "The user expressed their disgust towards the kitchen staff at a local restaurant for wearing gloves while handling their food. They agreed with the previous question asking if that was the case."
+        "analysis": "The user expressed their disgust towards the kitchen staff at a local restaurant for wearing gloves while handling their food. They agreed with the previous question asking if that was the case.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.95,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.9,
+            "likability": 4.95,
+            "politeness": 4.4
+        }
     },
     {
         "utt_1": "So I have a vacation coming up in a few months.",
@@ -561,7 +804,16 @@
         "utt_3": "Quite. I've been planning it for months now.",
         "generated_response": "I'm so glad to hear that! I bet you're really looking forward to it. Have a great time on your vacation!",
         "intent": "expressing excitement",
-        "analysis": "The user has expressed their excitement about an upcoming vacation and mentioned that they have been planning it for months."
+        "analysis": "The user has expressed their excitement about an upcoming vacation and mentioned that they have been planning it for months.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.85,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I saw a dude driving a Porsche down the street of my city. Was definitely jealous lol",
@@ -569,7 +821,16 @@
         "utt_3": "Yeah I am thinking this guy must be a CEO or something. If I had the money I would buy one for sure.",
         "generated_response": "I know the feeling! I've always thought about what it would be like to drive a car like that. Maybe one day I'll save up enough money and make it happen.",
         "intent": "sharing a relatable experience and expressing desire",
-        "analysis": "The user has expressed feelings of jealousy and curiosity about the person driving the Porsche. They have also made assumptions about the person's occupation based on their wealth."
+        "analysis": "The user has expressed feelings of jealousy and curiosity about the person driving the Porsche. They have also made assumptions about the person's occupation based on their wealth.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.8,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.55,
+            "likability": 4.6,
+            "politeness": 3.35
+        }
     },
     {
         "utt_1": "I am going on a week long vacation next month.  I am really excited and cannot wait!",
@@ -577,7 +838,16 @@
         "utt_3": "I got a really good deal.  And I am splitting the cost with someone.  It is going to be a blast",
         "generated_response": "That's great to hear! I'm really happy for you and I'm sure you're going to have an amazing time on your vacation. Enjoy every moment of it!",
         "intent": "joy",
-        "analysis": "The user has expressed joy and excitement about going on a week-long vacation next month. They mentioned that they got a good deal and are splitting the cost with someone, which adds to their happiness."
+        "analysis": "The user has expressed joy and excitement about going on a week-long vacation next month. They mentioned that they got a good deal and are splitting the cost with someone, which adds to their happiness.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.25,
+            "empathetical_responding": 4.85,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I saw a video game trailer recently that really brought me back!",
@@ -585,7 +855,16 @@
         "utt_3": "The new Spyro Remastered game coming out. Seeing it really reminded me of how I used to play the original all day with an old friend of mine.",
         "generated_response": "Oh, I've heard great things about the Spyro Remastered game! It's always fun to revisit old favorites, is not it? I remember playing some games with my friends back in the day and having a blast. Do you have any other favorite games from your past that you'd like to talk about?",
         "intent": "sharing a common interest",
-        "analysis": "The user expressed joy when talking about the new Spyro Remastered game trailer and shared a memory of playing the original game with an old friend. This joyful emotion is likely related to the game and the nostalgic memories it brought up."
+        "analysis": "The user expressed joy when talking about the new Spyro Remastered game trailer and shared a memory of playing the original game with an old friend. This joyful emotion is likely related to the game and the nostalgic memories it brought up.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.1,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "I heard one of my favorite youtubers talking about the 90's the other day and how old we were lol. But it reminded me of fun times as a teen",
@@ -593,7 +872,16 @@
         "utt_3": "I am not sure I can pick on favorite but I loved how there were no bills lol and it was just freedom to be creative and listen to music all night and hang out with friends talking until the late hours :)",
         "generated_response": "Oh, I completely agree! The 90s were such a wonderful time, filled with creativity and freedom. I remember staying up late with friends, listening to music, and just enjoying life without the worry of bills. Those were the days!",
         "intent": "sharing a joyful memory and expressing nostalgia",
-        "analysis": "User expressed joy and nostalgia about the freedom and creativity of the 90s, with no bills and late-night conversations with friends."
+        "analysis": "User expressed joy and nostalgia about the freedom and creativity of the 90s, with no bills and late-night conversations with friends.",
+        "scores": {
+            "repetitiveness": 4.9,
+            "empathetical_understanding": 4.5,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.8,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I rarely pre-order video games, but recently did for one that comes out in November.",
@@ -601,7 +889,16 @@
         "utt_3": "Fallout 76.  I swear, November can't come fast enough!",
         "generated_response": "I'm so glad to hear that! Fallout 76 sounds really interesting. I ca not wait for its release either. Have you played any of the previous Fallout games? If so, what did you think of them?",
         "intent": "sharing excitement",
-        "analysis": "The user expressed excitement about having pre-ordered Fallout 76 and mentioned their anticipation for its release in November."
+        "analysis": "The user expressed excitement about having pre-ordered Fallout 76 and mentioned their anticipation for its release in November.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.6,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "We are moving soon and I'm so ready to go.",
@@ -609,7 +906,16 @@
         "utt_3": "Texas, there's so much to do there so I'm happy for the change.",
         "generated_response": "That's wonderful news! Texas has a lot to offer, from its vibrant cities to its beautiful landscapes. I'm sure you'll have a great time there.",
         "intent": "joy",
-        "analysis": "The user has expressed their excitement about moving to Texas, mentioning that they are looking forward to all the opportunities it offers."
+        "analysis": "The user has expressed their excitement about moving to Texas, mentioning that they are looking forward to all the opportunities it offers.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "So my neighbor just bought a new car. I swear, he always gets really expensive stuff to show off how successful he is.",
@@ -617,7 +923,16 @@
         "utt_3": "Maybe... but still. Now I feel like I need to buy one myself.",
         "generated_response": "You know, it's possible that your neighbor is going through some personal reasons for buying a new car. Maybe he's celebrating a promotion or a milestone in his life. Let's not compare ourselves to others and focus on our own happiness and financial stability.",
         "intent": "suggesting a possible explanation for the neighbor's behavior",
-        "analysis": "The user expresses a feeling of being pressured to buy a new car due to their neighbor's purchase. They seem to have a neutral emotion towards the situation but suggest that their neighbor might be going through something."
+        "analysis": "The user expresses a feeling of being pressured to buy a new car due to their neighbor's purchase. They seem to have a neutral emotion towards the situation but suggest that their neighbor might be going through something.",
+        "scores": {
+            "repetitiveness": 4.65,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.75,
+            "attentive_curiosity": 4.4,
+            "likability": 4.65,
+            "politeness": 4.1
+        }
     },
     {
         "utt_1": "I saw an ad for Disneyland the other day",
@@ -625,7 +940,16 @@
         "utt_3": "I think they run an ad every year as it was a 'summer' themed ad about all the summer attractions. I really want to go as I've only been once when I was a kid!",
         "generated_response": "Wow, Disneyland during summer must be so much fun! I've heard great things about their summer attractions. Have you thought about planning a trip soon?",
         "intent": "sharing excitement",
-        "analysis": "The user expressed joy in seeing an ad for Disneyland, mentioning that it was a summer-themed ad and they have only been once before as a kid. They seem excited about the prospect of going again."
+        "analysis": "The user expressed joy in seeing an ad for Disneyland, mentioning that it was a summer-themed ad and they have only been once before as a kid. They seem excited about the prospect of going again.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.55,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "we are going to a concert sunday, i am sure its going to be great",
@@ -633,7 +957,16 @@
         "utt_3": "breaking ben and 5 finger",
         "generated_response": "Cool, I've heard great things about both Breaking Ben and 5 Finger. I'm sure it's going to be an amazing show!",
         "intent": "neutral",
-        "analysis": "The user mentioned they are going to a concert this Sunday and are excited about it. In their last turn, they specified that the concert will feature the bands 'Breaking Ben' and '5 Finger'. There is no evident emotion or intent in the last turn, but it seems neutral and informative."
+        "analysis": "The user mentioned they are going to a concert this Sunday and are excited about it. In their last turn, they specified that the concert will feature the bands 'Breaking Ben' and '5 Finger'. There is no evident emotion or intent in the last turn, but it seems neutral and informative.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.4,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My house feels like its taking forever to sell...but I have a feeling something good is going to come soon!",
@@ -641,7 +974,16 @@
         "utt_3": "It's been almost 3 months now, but not 1 offer.",
         "generated_response": "I'm really sorry to hear that you've been going through this for a while now. It can be frustrating and disheartening when things do not go as planned. Have you considered reaching out to a real estate agent for advice or assistance? They might be able to provide some insights or strategies to help get things moving.",
         "intent": "sadness",
-        "analysis": "The user has been trying to sell their house for almost 3 months with no offers yet. They express sadness about the situation."
+        "analysis": "The user has been trying to sell their house for almost 3 months with no offers yet. They express sadness about the situation.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 4.95,
+            "likability": 4.95,
+            "politeness": 4.5
+        }
     },
     {
         "utt_1": "It's very strange when you meet somebody you know, in the middle of a megalopolis.",
@@ -649,7 +991,16 @@
         "utt_3": "Exactly, how does it even work?",
         "generated_response": "It's quite fascinating, is not it? I guess it's all about the connections we make and the unexpected moments that life brings us.",
         "intent": "curiosity",
-        "analysis": "The user expressed sadness in the first utterance, acknowledging the feeling with 'Yeah, it's like a small world.' In the second turn, the user questioned how such encounters work."
+        "analysis": "The user expressed sadness in the first utterance, acknowledging the feeling with 'Yeah, it's like a small world.' In the second turn, the user questioned how such encounters work.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.95,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 4.9,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.85
+        }
     },
     {
         "utt_1": "My next door neighbor just bought the truck I wanted for myself.",
@@ -657,7 +1008,16 @@
         "utt_3": "jelly for real.",
         "generated_response": "I'm sorry to hear that. It's understandable to feel jealous when someone else gets something you wanted. Maybe you can try focusing on the positive aspects of what you have now, or consider saving up for something else that you've had your eye on.",
         "intent": "expressing a feeling",
-        "analysis": "The user expressed feeling jealous in their last utterance, indicating an emotion of sadness or disappointment."
+        "analysis": "The user expressed feeling jealous in their last utterance, indicating an emotion of sadness or disappointment.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.1,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 4.75,
+            "likability": 4.9,
+            "politeness": 4.05
+        }
     },
     {
         "utt_1": "My dad took me to a golf championship, the PGA that came to my home town last May. All the famous golfers you see on TV were there and I tripped down a hill in a dress!",
@@ -665,7 +1025,16 @@
         "utt_3": "No luckily I wasn't hurt physically but my ego was! No one laughed about it until after, they were more concerned then anything, they were actually very nice!",
         "generated_response": "I'm glad to hear that you were okay physically and that people were supportive despite your embarrassment. It takes courage to share such experiences. Maybe next time, you could consider wearing something more comfortable for such events!",
         "intent": "neutral",
-        "analysis": "The user described an embarrassing experience at a golf championship where she tripped down a hill in a dress in front of famous golfers. She was initially sad about the incident but later realized that no one laughed at her and they were concerned instead. She mentioned that her ego was hurt but no physical harm was done."
+        "analysis": "The user described an embarrassing experience at a golf championship where she tripped down a hill in a dress in front of famous golfers. She was initially sad about the incident but later realized that no one laughed at her and they were concerned instead. She mentioned that her ego was hurt but no physical harm was done.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 4.05,
+            "politeness": 3.5
+        }
     },
     {
         "utt_1": "my pet dog pooped all over my rug last week. She never did that before",
@@ -673,7 +1042,16 @@
         "utt_3": "i don't know, she never did that before, i don't know if the crap or her behavior got to me more",
         "generated_response": "I see, it can be really frustrating when our pets do something unexpected, especially when it comes to house training. Have you tried taking her out more frequently or checking if there's something in her diet that might be causing the issue?",
         "intent": "neutral",
-        "analysis": "The user expressed their disappointment and confusion about their dog's unexpected behavior, which was pooping on the rug, something she had never done before. In the second turn, the user acknowledged their emotions and mentioned that they were unsure if it was the dog's behavior or the poop that bothered them more."
+        "analysis": "The user expressed their disappointment and confusion about their dog's unexpected behavior, which was pooping on the rug, something she had never done before. In the second turn, the user acknowledged their emotions and mentioned that they were unsure if it was the dog's behavior or the poop that bothered them more.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.85,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.5
+        }
     },
     {
         "utt_1": "You just can't trust people any more. My mechanic told me it was going to be $1000 to fix my Jeep.",
@@ -681,7 +1059,16 @@
         "utt_3": "Turns out, nothing much at all. A guy down the street got it running for $100.",
         "generated_response": "I'm really sorry to hear that you felt deceived by your mechanic. It's important to trust the people we rely on for services, and it can be disappointing when that trust is not reciprocated. Have you considered seeking an explanation from your mechanic about why the cost was so much higher than you expected?",
         "intent": "expressing disappointment",
-        "analysis": "The user initially expressed trust towards their mechanic, but later on, they were surprised to find out that the issue with their Jeep was fixed for a significantly lower price by someone else. This suggests a lack of trust in the original mechanic and a feeling of being deceived."
+        "analysis": "The user initially expressed trust towards their mechanic, but later on, they were surprised to find out that the issue with their Jeep was fixed for a significantly lower price by someone else. This suggests a lack of trust in the original mechanic and a feeling of being deceived.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.35,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 4.95,
+            "politeness": 4.7
+        }
     },
     {
         "utt_1": "My dog died today.",
@@ -689,7 +1076,16 @@
         "utt_3": "It's a really rough time. I have never been so sad in my life.",
         "generated_response": "I'm really sorry for your loss. Losing a beloved pet can be incredibly difficult. If you need someone to talk to, I'm here for you.",
         "intent": "comforting",
-        "analysis": "The user has expressed their sadness over the loss of their dog. They have described the situation as being extremely difficult for them, suggesting a high level of sadness and emotional distress."
+        "analysis": "The user has expressed their sadness over the loss of their dog. They have described the situation as being extremely difficult for them, suggesting a high level of sadness and emotional distress.",
+        "scores": {
+            "repetitiveness": 4.944444444444445,
+            "empathetical_understanding": 5.0,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "Our coworker who has been with us for over 20 years just quit out of the blue.",
@@ -697,7 +1093,16 @@
         "utt_3": "I hope so as well. We're all waiting to hear back from her.",
         "generated_response": "I understand, it's a difficult situation. Let's stay positive and keep the lines of communication open. Maybe there's a reason behind her decision that we're not yet aware of. In the meantime, let's focus on our tasks and support each other as a team.",
         "intent": "encouraging",
-        "analysis": "The user has expressed surprise and is encouraging the group by waiting to hear back from their coworker who suddenly quit."
+        "analysis": "The user has expressed surprise and is encouraging the group by waiting to hear back from their coworker who suddenly quit.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.9,
+            "attentive_curiosity": 4.9,
+            "likability": 5.0,
+            "politeness": 4.85
+        }
     },
     {
         "utt_1": "School for my kids started again this past Thursday.",
@@ -705,7 +1110,16 @@
         "utt_3": "It was good. I am dealing with a mixture of both emotions about them being back in school. I was happy I had all the supplies, clothes, shoes, and other odds and ends in time.",
         "generated_response": "I can understand how you feel, it's a bittersweet moment is not it? On one hand, it's great to see them grow up and get back into a routine. On the other hand, it's hard to believe how fast time flies. I hope the new school year brings them many new opportunities and learning experiences.",
         "intent": "sympathizing and engaging",
-        "analysis": "The user expressed a mix of emotions about their kids going back to school. They mentioned being happy about being prepared and having everything in order, but also dealing with the realization that their kids are getting older."
+        "analysis": "The user expressed a mix of emotions about their kids going back to school. They mentioned being happy about being prepared and having everything in order, but also dealing with the realization that their kids are getting older.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.75,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I'm really looking forward for the new Greek restaurant to open here.",
@@ -713,7 +1127,16 @@
         "utt_3": "It's really good.  I can't wait to try it!",
         "generated_response": "That's great to hear! I'm sure the new restaurant will offer some delicious dishes. Have you tried any particular Greek dishes that you're looking forward to?",
         "intent": "neutral",
-        "analysis": "The user has expressed excitement about the new Greek restaurant opening, and has not responded to my previous statement about never having had Greek cuisine."
+        "analysis": "The user has expressed excitement about the new Greek restaurant opening, and has not responded to my previous statement about never having had Greek cuisine.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My cousin bought a really pretty shirt that I had been wanting",
@@ -721,7 +1144,16 @@
         "utt_3": "that is not fun, does that mean you cannot get it now?",
         "generated_response": "No, I'm happy for my cousin that she got the shirt, and I'll just keep looking for a similar one for myself.",
         "intent": "questioning",
-        "analysis": "The user is expressing concern about the fact that your cousin bought the shirt you had been wanting, and is asking if that means you cannot get it now."
+        "analysis": "The user is expressing concern about the fact that your cousin bought the shirt you had been wanting, and is asking if that means you cannot get it now.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.85,
+            "empathetical_responding": 3.85,
+            "response_relatedness": 4.8,
+            "attentive_curiosity": 4.85,
+            "likability": 4.5,
+            "politeness": 4.85
+        }
     },
     {
         "utt_1": "that is not fun, does that mean you cannot get it now?",
@@ -729,7 +1161,16 @@
         "utt_3": "that is no fun, does that mean you cannot buy it now?",
         "generated_response": "No, I can buy it now if I want to. I just did not want her to get it instead of me.",
         "intent": "questioning",
-        "analysis": "The user is asking if I cannot buy the item now because it is not fun for me to have it. In the previous turn, I mentioned that I did not want her to have it and not me, which may have given the user the impression that I cannot buy it for myself."
+        "analysis": "The user is asking if I cannot buy the item now because it is not fun for me to have it. In the previous turn, I mentioned that I did not want her to have it and not me, which may have given the user the impression that I cannot buy it for myself.",
+        "scores": {
+            "repetitiveness": 4.75,
+            "empathetical_understanding": 2.8,
+            "empathetical_responding": 3.1,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.75,
+            "likability": 3.5,
+            "politeness": 3.4
+        }
     },
     {
         "utt_1": "I found some of my kids artwork from when they were little and it made me miss having them around all the time.",
@@ -737,7 +1178,16 @@
         "utt_3": "It is hard when they move away.",
         "generated_response": "I completely understand how bittersweet it can be to look back at old memories and feel the joy they bring, while also missing the present moment with them. My daughter just left for college, and I've been feeling the same way.",
         "intent": "sympathizing and sharing a similar experience",
-        "analysis": "The user expressed joy in remembering their children's artwork from the past, but then mentioned the difficulty of having them move away, indicating sadness."
+        "analysis": "The user expressed joy in remembering their children's artwork from the past, but then mentioned the difficulty of having them move away, indicating sadness.",
+        "scores": {
+            "repetitiveness": 4.9,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.4,
+            "attentive_curiosity": 4.35,
+            "likability": 2.4,
+            "politeness": 3.9
+        }
     },
     {
         "utt_1": "I feel slightly bad. I think I hurt my mom's feelings last week because she told me about a necklace I got rid of when I was a kid. She's a packrat and I'm really, really not.",
@@ -745,7 +1195,16 @@
         "utt_3": "I feel like her and my aunt kind of could be on that show. :/ I'm all about less stuff to pick up! lol Eh..it was a necklace she gave me when they found out they were pregnant. It said \"Special Sister\". I'm probably a jerk..",
         "generated_response": "I'm really sorry for making your mom feel that way. I did not realize the necklace held such significance to her. Maybe you could consider reaching out to her and apologizing, explaining your current perspective on possessions?",
         "intent": "sadness",
-        "analysis": "The user expressed sadness about unintentionally hurting their mother's feelings by getting rid of a sentimental necklace given to them as a gift when they were a child. They also mentioned their contrasting personalities with their mother, who is a packrat."
+        "analysis": "The user expressed sadness about unintentionally hurting their mother's feelings by getting rid of a sentimental necklace given to them as a gift when they were a child. They also mentioned their contrasting personalities with their mother, who is a packrat.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.95,
+            "empathetical_responding": 4.1,
+            "response_relatedness": 4.75,
+            "attentive_curiosity": 4.9,
+            "likability": 4.8,
+            "politeness": 4.7
+        }
     },
     {
         "utt_1": "I feel like her and my aunt kind of could be on that show. :/ I'm all about less stuff to pick up! lol Eh..it was a necklace she gave me when they found out they were pregnant. It said \"Special Sister\". I'm probably a jerk..",
@@ -753,7 +1212,16 @@
         "utt_3": "No, they bought it for me. I think I was going goodwill it and she grabbed it back. lol She said she wants to pass it onto my daughter someday so that's sweet.",
         "generated_response": "Oh, that's really sweet of her to want to pass it down to your daughter. It's a beautiful piece with a special meaning behind it.",
         "intent": "surprise",
-        "analysis": "The user mentioned that they had a necklace with the word 'Special Sister' that was given to them by their aunt and her when they found out they were pregnant. They initially seemed sad and mentioned they were going to donate it, but then revealed that their aunt wanted to pass it down to the user's daughter. The user expressed surprise."
+        "analysis": "The user mentioned that they had a necklace with the word 'Special Sister' that was given to them by their aunt and her when they found out they were pregnant. They initially seemed sad and mentioned they were going to donate it, but then revealed that their aunt wanted to pass it down to the user's daughter. The user expressed surprise.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.75,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.85
+        }
     },
     {
         "utt_1": "My friend is a surgeon and we were discussing salary. He easily makes 200,000 a year and he is only 32. It's crazy and I was jealous of him.",
@@ -761,7 +1229,16 @@
         "utt_3": "Yeah, that's a good point. I also realized he has a high malpractice insurance, and is on call a lot.",
         "generated_response": "Wow, it's impressive how well he manages such a demanding career. The financial rewards and responsibilities must be significant. It's important to remember that success often comes with challenges. Let's celebrate his achievements while also recognizing the hard work and dedication required.",
         "intent": "expressing understanding and empathy",
-        "analysis": "The user acknowledged the high stress and financial responsibilities that come with being a surgeon, and also mentioned the high malpractice insurance. They seem to be expressing a mix of admiration and jealousy towards their friend's salary."
+        "analysis": "The user acknowledged the high stress and financial responsibilities that come with being a surgeon, and also mentioned the high malpractice insurance. They seem to be expressing a mix of admiration and jealousy towards their friend's salary.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.75
+        }
     },
     {
         "utt_1": "I can't find my car keys since last night",
@@ -769,7 +1246,16 @@
         "utt_3": "yes at least i am off from work today and can spend more  time looking",
         "generated_response": "I'm sorry to hear that you ca not find your car keys, but it seems like you've got a silver lining today. Since you're off from work, you can take your time and search thoroughly for them. You might even find them in unexpected places. Do not worry, things will turn around for you!",
         "intent": "consoling and helping",
-        "analysis": "The user expressed sadness in the first utterance as they cannot find their car keys. In the second utterance, they shared that they are off from work today and can spend more time looking for their keys, indicating a shift in emotion to joy."
+        "analysis": "The user expressed sadness in the first utterance as they cannot find their car keys. In the second utterance, they shared that they are off from work today and can spend more time looking for their keys, indicating a shift in emotion to joy.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.85,
+            "likability": 5.0,
+            "politeness": 4.15
+        }
     },
     {
         "utt_1": "My brother got suspended for something he did not do in high school by a very vindictive teacher.",
@@ -777,7 +1263,16 @@
         "utt_3": "Yeah she eventually was fired a year later, but it still makes me angry to think about it",
         "generated_response": "I'm really sorry to hear that your brother went through that experience. It's unfair when people are wrongly accused and punished. I hope he was able to move past it and that the teacher's actions did not have lasting effects.",
         "intent": "sympathy and support",
-        "analysis": "The user expressed their sadness about their brother getting suspended unfairly in high school by a vindictive teacher. They also mentioned that the teacher was eventually fired, but the user still feels angry about the situation."
+        "analysis": "The user expressed their sadness about their brother getting suspended unfairly in high school by a vindictive teacher. They also mentioned that the teacher was eventually fired, but the user still feels angry about the situation.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.2,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "My ex is the worst.",
@@ -785,7 +1280,16 @@
         "utt_3": "He posted my number on facebook.",
         "generated_response": "Wow, that's really unexpected of him. Have you tried contacting him to ask him to take it down?",
         "intent": "surprise",
-        "analysis": "The user expressed anger in the first utterance and surprise in the second. In the first utterance, they were expressing their negative feelings towards their ex. In the second utterance, they revealed that their ex had posted their number on Facebook, which came as a surprise to the user."
+        "analysis": "The user expressed anger in the first utterance and surprise in the second. In the first utterance, they were expressing their negative feelings towards their ex. In the second utterance, they revealed that their ex had posted their number on Facebook, which came as a surprise to the user.",
+        "scores": {
+            "repetitiveness": 4.9,
+            "empathetical_understanding": 1.8,
+            "empathetical_responding": 2.55,
+            "response_relatedness": 4.45,
+            "attentive_curiosity": 4.85,
+            "likability": 3.75,
+            "politeness": 3.15
+        }
     },
     {
         "utt_1": "I'm grateful for the work hours, but bummed that I can't get time off.",
@@ -793,7 +1297,16 @@
         "utt_3": "Well, I've worked without a break for the last 3 years, I just want to get away abit.",
         "generated_response": "I'm sorry to hear that you've been working hard for the past 3 years without a break. Have you considered applying for a sabbatical or extended leave? It might be a good opportunity for you to recharge and come back to work refreshed. Alternatively, you could try to plan a small trip or staycation to give yourself a break. Let me know if you need any help with that.",
         "intent": "expressing a need for time off",
-        "analysis": "The user has expressed sadness about their work situation for the past few turns. They have mentioned that they have worked without a break for the last 3 years and are feeling the need to get away. This suggests a desire for a vacation or time off."
+        "analysis": "The user has expressed sadness about their work situation for the past few turns. They have mentioned that they have worked without a break for the last 3 years and are feeling the need to get away. This suggests a desire for a vacation or time off.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.65,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I was watching my niece the other day, and seeing her playing made me miss my days of youth as well.",
@@ -801,7 +1314,16 @@
         "utt_3": "I wish I had a time machine sometimes. Was a lot easier back then without all the responsibility of course.",
         "generated_response": "I totally agree. Those were simpler times. Sometimes I catch myself thinking about going back and reliving those moments.",
         "intent": "sharing a similar emotion and continuing the conversation",
-        "analysis": "The user expressed joy in their previous utterances while reminiscing about their youth and wishing for a time machine. They seem to be in a nostalgic mood."
+        "analysis": "The user expressed joy in their previous utterances while reminiscing about their youth and wishing for a time machine. They seem to be in a nostalgic mood.",
+        "scores": {
+            "repetitiveness": 4.95,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.8,
+            "likability": 4.85,
+            "politeness": 4.5
+        }
     },
     {
         "utt_1": "So i am really mad right now. Brother took my car without asking and i have to go to work.",
@@ -809,7 +1331,16 @@
         "utt_3": "I dunno all my friends are busy and no one is even answering the phone at work.",
         "generated_response": "I'm really sorry to hear that you're having a tough time getting to work. Have you tried contacting a taxi service or asking a neighbor for a ride? You're not alone in this, I'm here to help in any way I can.",
         "intent": "consoling, offering help",
-        "analysis": "The user is expressing sadness and frustration about not being able to get to work as her brother took her car without asking and no one is answering her calls for help. She seems to be isolated and disappointed."
+        "analysis": "The user is expressing sadness and frustration about not being able to get to work as her brother took her car without asking and no one is answering her calls for help. She seems to be isolated and disappointed.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.65,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "One year my cousin wasn't going to get her young son anything for Christmas. It broke my heart so my husband and I bought his Santa gifts that year.",
@@ -817,7 +1348,16 @@
         "utt_3": "The little guy deserved a Christmas and we really loved him.",
         "generated_response": "That's a beautiful story. It's heartwarming to see how much you and your husband care for your cousin's son. I'm sure the little guy was thrilled with the presents you and your husband got him that year.",
         "intent": "expressing emotions and sharing a personal story",
-        "analysis": "The user is expressing her feelings about her cousin's situation and how she and her husband stepped in to help by buying gifts for the little boy during a Christmas when he was not going to receive any."
+        "analysis": "The user is expressing her feelings about her cousin's situation and how she and her husband stepped in to help by buying gifts for the little boy during a Christmas when he was not going to receive any.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.5,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I am so jittery over starting my new job tomorrow.",
@@ -825,7 +1365,16 @@
         "utt_3": "If only I could fall asleep!",
         "generated_response": "I'm sorry you're feeling this way, it's completely normal to feel jittery about a new job, but the lack of sleep could make things worse. Have you tried any relaxation techniques before bed? Maybe some light reading or calming music could help you unwind.",
         "intent": "comforting",
-        "analysis": "The user has expressed fear about starting a new job and sadness about not being able to fall asleep due to nerves. The fear is a normal response to starting a new job, but the inability to sleep due to it is a cause for concern."
+        "analysis": "The user has expressed fear about starting a new job and sadness about not being able to fall asleep due to nerves. The fear is a normal response to starting a new job, but the inability to sleep due to it is a cause for concern.",
+        "scores": {
+            "repetitiveness": 4.9,
+            "empathetical_understanding": 4.1,
+            "empathetical_responding": 4.2,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 4.95,
+            "likability": 4.95,
+            "politeness": 4.5
+        }
     },
     {
         "utt_1": "Last month, my family and I drove to Colorado to visit my sister.",
@@ -833,7 +1382,16 @@
         "utt_3": "Not very long because she came to visit us about 3 weeks before we went there. The trip was fun, but the driving always scares me.",
         "generated_response": "I can understand how driving long distances can be nerve-wracking. Maybe next time, you could consider flying or taking a train to make the travel part of the trip less stressful. Or, you could try listening to calming music or podcasts during the drive to help pass the time.",
         "intent": "fear",
-        "analysis": "The user mentioned that they recently visited their sister in Colorado, but the journey made them feel scared. They also mentioned that they had seen her not very long ago."
+        "analysis": "The user mentioned that they recently visited their sister in Colorado, but the journey made them feel scared. They also mentioned that they had seen her not very long ago.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.9,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.5
+        }
     },
     {
         "utt_1": "i was trying to sleep train my son but i failed. i didn't it's gonna be that hard. I think we will be co sleeping till he goes to college",
@@ -841,7 +1399,16 @@
         "utt_3": "I hope so, i miss sleeping in a comfortable position without baby feet in my face",
         "generated_response": "I understand how tough it can be, especially when you're longing for a good night's sleep. Maybe you could try some co-sleeping techniques that make it more comfortable for both of you? For instance, using a comfortable mattress or a body pillow to support you and your son. That way, you can get some rest while still being close to him.",
         "intent": "sympathetic",
-        "analysis": "The user has expressed their frustration with sleep training their son and mentioned that they may be co-sleeping with him for an extended period. They have also expressed a longing for comfortable sleep positions."
+        "analysis": "The user has expressed their frustration with sleep training their son and mentioned that they may be co-sleeping with him for an extended period. They have also expressed a longing for comfortable sleep positions.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.8,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.4
+        }
     },
     {
         "utt_1": "I checked my mail yesterday",
@@ -849,7 +1416,16 @@
         "utt_3": "I got a check in the mail from my insurance company.  Didn't expect that!",
         "generated_response": "Wow, that's great news! I'm glad to hear that you received a check from your insurance company. I hope it's for a nice refund or a good coverage.",
         "intent": "expressing surprise",
-        "analysis": "The user expressed surprise in the last utterance, as they did not expect to receive a check from their insurance company."
+        "analysis": "The user expressed surprise in the last utterance, as they did not expect to receive a check from their insurance company.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.85,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.85
+        }
     },
     {
         "utt_1": "I recently spent a couple of restless days awaiting the results of a skin biopsy.  I had a weird mole come up out of nowhere.",
@@ -857,7 +1433,16 @@
         "utt_3": "I got them back yesterday, and it was good news.  No cancer!",
         "generated_response": "I'm so glad to hear that the results were good! It's always a relief to get positive news after a wait like that.",
         "intent": "expressing joy",
-        "analysis": "The user has shared that they had a skin biopsy result come back with good news, indicating no cancer. They seem to be expressing relief and happiness."
+        "analysis": "The user has shared that they had a skin biopsy result come back with good news, indicating no cancer. They seem to be expressing relief and happiness.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.6,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I have a very good friend and her boyfriend made sexual advances towards me. I never did tell my friend, for various reasons, but I feel really guilty and bad about it@!",
@@ -865,7 +1450,16 @@
         "utt_3": "Yes, and there were financial and personal reasons of her own that is why I didn't tell her. Plus, I really hated to hurt her, but I guess I should have told her.",
         "generated_response": "I can understand how difficult it must have been for you to keep this secret from your friend. It's important to remember that sometimes, keeping a secret can be a heavy burden. You might consider talking to a trusted person about your feelings and what happened, even if it's not your friend. It could help you process the situation and potentially find a way to address it with your friend in a way that minimizes harm to your friendship.",
         "intent": "expressing sadness and guilt",
-        "analysis": "The user is expressing feelings of sadness and guilt about a situation where her friend's boyfriend made sexual advances towards her and she did not tell her friend about it. She mentions financial and personal reasons for not telling her friend, as well as her fear of hurting her."
+        "analysis": "The user is expressing feelings of sadness and guilt about a situation where her friend's boyfriend made sexual advances towards her and she did not tell her friend about it. She mentions financial and personal reasons for not telling her friend, as well as her fear of hurting her.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.6,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.55
+        }
     },
     {
         "utt_1": "I want to go on a vacation next month but now I cant.",
@@ -873,7 +1467,16 @@
         "utt_3": "Mys husbands job sucks and they had to cancel his vacation because they arnt staffed right.",
         "generated_response": "I'm really sorry to hear that. It's unfortunate when things do not go as planned, especially when we're looking forward to something like a vacation. Maybe you could suggest some alternative plans to make the most of the time at home? Or perhaps plan for a future vacation when things are better?",
         "intent": "consolation",
-        "analysis": "The user expressed sadness in the previous utterance due to her husband's job cancelling his vacation. This situation seems to have disappointed her."
+        "analysis": "The user expressed sadness in the previous utterance due to her husband's job cancelling his vacation. This situation seems to have disappointed her.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.45
+        }
     },
     {
         "utt_1": "Can you believe my dad won and didn't give me any?",
@@ -881,7 +1484,16 @@
         "utt_3": "He won the lotto and won't split the prize with his son",
         "generated_response": "I'm really disappointed to hear that, especially since you were expecting some help from your dad's lottery winnings. It's important to communicate openly about these things, do not you think?",
         "intent": "expressing disappointment and anger",
-        "analysis": "The user expressed anger in the first utterance about not receiving a share of something, which was clarified in the second utterance to be a lottery win by the user's father. In the third utterance, the user revealed that their father won the lottery but did not share it with the user, which may have reinforced the user's anger."
+        "analysis": "The user expressed anger in the first utterance about not receiving a share of something, which was clarified in the second utterance to be a lottery win by the user's father. In the third utterance, the user revealed that their father won the lottery but did not share it with the user, which may have reinforced the user's anger.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.9,
+            "likability": 4.3,
+            "politeness": 3.45
+        }
     },
     {
         "utt_1": "im scared of this big test tomorrow",
@@ -889,7 +1501,16 @@
         "utt_3": "yes i have, still nervous though",
         "generated_response": "I understand how you feel, tests can be nerve-wracking. But remember, you've prepared for this, and your hard work will pay off. You've got this!",
         "intent": "comforting",
-        "analysis": "The user has expressed fear about an upcoming test, but has also confirmed that they have studied for it. Their agreement with the suggestion to study indicates they are taking the test seriously and are proactive in their preparation."
+        "analysis": "The user has expressed fear about an upcoming test, but has also confirmed that they have studied for it. Their agreement with the suggestion to study indicates they are taking the test seriously and are proactive in their preparation.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.2,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I am broke and cannot afford to pay my bills. I am afraid that I have hurt my family because of my mental issues. I am embarrassed to tell anyone.",
@@ -897,7 +1518,16 @@
         "utt_3": "I don't think there is anything you can do to help. This is something, I most likely will need to resolve on my own. Unfortunately.",
         "generated_response": "I understand that you may feel that way, but please know that there are resources and support available that could potentially help you. It's not uncommon for people to feel overwhelmed by their financial and mental health issues. Have you considered reaching out to a trusted friend or family member for support? Or perhaps seeking professional help, such as a therapist or financial advisor? I'm here for you and want to help in any way I can.",
         "intent": "sympathizing and offering help",
-        "analysis": "The user has expressed sadness and a feeling of being unable to resolve their financial and mental issues, and has mentioned their fear of hurting their family. They have also indicated that they do not believe there is anything that can be done to help, and that they may need to resolve the situation on their own."
+        "analysis": "The user has expressed sadness and a feeling of being unable to resolve their financial and mental issues, and has mentioned their fear of hurting their family. They have also indicated that they do not believe there is anything that can be done to help, and that they may need to resolve the situation on their own.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.6,
+            "response_relatedness": 4.75,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I don't think there is anything you can do to help. This is something, I most likely will need to resolve on my own. Unfortunately.",
@@ -905,7 +1535,16 @@
         "utt_3": "My insurance will not cover this type of expenses. I am medicated, but I do not feel that it helps.",
         "generated_response": "I'm really sorry to hear that you're feeling this way and that things are not improving for you despite the medication. Have you tried reaching out to any support groups or organizations in your area that might be able to provide resources or assistance? Sometimes, just talking to others who are going through similar experiences can be helpful.",
         "intent": "sadness",
-        "analysis": "The user has expressed sadness and mentioned that they are unable to afford therapy due to insurance issues and that their current medication is not helping. They seem to be feeling hopeless and alone in their struggle."
+        "analysis": "The user has expressed sadness and mentioned that they are unable to afford therapy due to insurance issues and that their current medication is not helping. They seem to be feeling hopeless and alone in their struggle.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.3,
+            "attentive_curiosity": 4.85,
+            "likability": 4.75,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "My insurance will not cover this type of expenses. I am medicated, but I do not feel that it helps.",
@@ -913,7 +1552,16 @@
         "utt_3": "Maybe so, I should look into that. I feel like just speaking to someone about this would help.",
         "generated_response": "I'm really sorry to hear that you're feeling this way. Have you considered reaching out to a mental health professional or support group? They may be able to provide you with resources and support that could help you through this difficult time.",
         "intent": "suggesting, seeking emotional support",
-        "analysis": "The user has expressed sadness about their insurance not covering expenses and feeling that their medication is not helping. They have suggested looking into free programs and also expressed a desire to speak to someone about their feelings. This suggests they may be feeling overwhelmed and seeking emotional support."
+        "analysis": "The user has expressed sadness about their insurance not covering expenses and feeling that their medication is not helping. They have suggested looking into free programs and also expressed a desire to speak to someone about their feelings. This suggests they may be feeling overwhelmed and seeking emotional support.",
+        "scores": {
+            "repetitiveness": 4.95,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.8,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My neighbor returned my golf clubs yesterday after I thought I lost them at the golf course.",
@@ -921,7 +1569,16 @@
         "utt_3": "He didn't! He promptly returned them to me once he found them. I was so thankful.",
         "generated_response": "That's great to hear! I'm glad your neighbor was honest and returned your golf clubs to you. It's always a relief when we find lost items.",
         "intent": "sharing a happy experience",
-        "analysis": "The user expressed joy in the previous utterance as they received their lost golf clubs back from their neighbor. They mentioned that their neighbor returned them promptly after finding them."
+        "analysis": "The user expressed joy in the previous utterance as they received their lost golf clubs back from their neighbor. They mentioned that their neighbor returned them promptly after finding them.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "You won't believe the day I've had! I got to sleep in this morning, I haven't done that in months!",
@@ -929,7 +1586,16 @@
         "utt_3": "Yes, my husband even cooked dinner for me today, and helped clean the house! He has been very helpful today.",
         "generated_response": "That's wonderful to hear! I'm so glad you had a great day and your husband was so helpful. I hope you continue to have more days like that!",
         "intent": "expressing happiness and sharing experiences",
-        "analysis": "The user has expressed joy in the previous turns, mentioning that they got to sleep in and their husband helped with cooking and cleaning. This suggests a positive and happy mood."
+        "analysis": "The user has expressed joy in the previous turns, mentioning that they got to sleep in and their husband helped with cooking and cleaning. This suggests a positive and happy mood.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.3,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My teacher said If i do what she says she can guarantee ill pass",
@@ -937,7 +1603,16 @@
         "utt_3": "Thats right, I am very greatfull for that indeed.",
         "generated_response": "I'm glad to hear that you feel supported by your teacher's guidance. Keep focusing on your studies and I'm sure you'll see great results!",
         "intent": "agreeing and expressing gratitude",
-        "analysis": "The user has expressed gratitude towards their teacher's guidance and trusts that following it will lead to passing. The teacher has agreed with the user's assessment of their role and goal."
+        "analysis": "The user has expressed gratitude towards their teacher's guidance and trusts that following it will lead to passing. The teacher has agreed with the user's assessment of their role and goal.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.2,
+            "empathetical_responding": 4.75,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "A few weeks ago I was on a bus trip. I had a ticket back home for a late bus but I wanted to leave earlier. There was an earlier bus that was supposed to be full. I decided to take my chances and try to get that earlier bus. I asked the driver if there was any chance of getting on and to my surprise I was able to!",
@@ -945,7 +1620,16 @@
         "utt_3": "I know. I made it home so much earlier than I had planned!",
         "generated_response": "That's fantastic! I'm glad you were able to make it home earlier than expected. Sometimes taking a chance pays off!",
         "intent": "Agreeing and expressing excitement",
-        "analysis": "The user expressed their surprise and happiness about being able to get on an earlier bus despite the driver mentioning that it was supposed to be full. They agreed with the fact that they got lucky."
+        "analysis": "The user expressed their surprise and happiness about being able to get on an earlier bus despite the driver mentioning that it was supposed to be full. They agreed with the fact that they got lucky.",
+        "scores": {
+            "repetitiveness": 4.95,
+            "empathetical_understanding": 4.4,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I just had my third job interview this month yesterday! It's been really great having so many job interveiws and I've gotten positive feedback from all of them! I really think I'm going to get one of these jobs!",
@@ -953,7 +1637,16 @@
         "utt_3": "Thank you. It's a produt manager job for Nestle. It pays really well and I'm very excitied about the possibilities!",
         "generated_response": "That's fantastic news! I'm sure your positive attitude and the great feedback you've received will help you secure the job at Nestle. Keep up the good work!",
         "intent": "encouraging",
-        "analysis": "The user has had three job interviews this month, the latest one being for a product manager job at Nestle. They are excited about the possibilities and have received positive feedback from all interviews."
+        "analysis": "The user has had three job interviews this month, the latest one being for a product manager job at Nestle. They are excited about the possibilities and have received positive feedback from all interviews.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.4,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I planted a whole bunch of flower bushes this year. I cannot wait until next spring when my entire garden will be in bloom with so many wonderful colors and smells.",
@@ -961,7 +1654,16 @@
         "utt_3": "Yes! I just went to the local nursery and they had so many plants to choose from. I made sure to only choose the ones that had some kind of fragrant smell. I am dreaming of all the flower arrangements I will make next year.",
         "generated_response": "That sounds absolutely beautiful! I can only imagine how wonderful your garden will be next year with all those fragrant flowers in bloom. Have you considered trying some new types of flowers or arrangements this time?",
         "intent": "sharing excitement",
-        "analysis": "The user is expressing their excitement about planting and growing various fragrant flower bushes in their garden, and looking forward to the upcoming bloom season."
+        "analysis": "The user is expressing their excitement about planting and growing various fragrant flower bushes in their garden, and looking forward to the upcoming bloom season.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.1,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.9,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My daughter left for vacation with her friend.",
@@ -969,7 +1671,16 @@
         "utt_3": "They went to Coco beach. It is so quiet and boring here without her.",
         "generated_response": "I'm sorry to hear that you're missing your daughter. I bet she's having a great time at Coco Beach. Maybe you could plan something fun for when she gets back to cheer you up?",
         "intent": "consoling",
-        "analysis": "The user expressed sadness in the last utterance about missing her daughter during her vacation. In the previous turn, the user was questioning where her daughter went, showing trust and curiosity."
+        "analysis": "The user expressed sadness in the last utterance about missing her daughter during her vacation. In the previous turn, the user was questioning where her daughter went, showing trust and curiosity.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I need to buy some clothes for winter. I need a new jacket and boots.",
@@ -977,7 +1688,16 @@
         "utt_3": "Winter come so quickly. So I need to be well prepared in advance.",
         "generated_response": "I completely understand, and I'm here to help you out! Have you considered checking out some winter jackets and boots that might fit your style and budget? I can help you find some great options online or suggest some stores in your area where you can try them on.",
         "intent": "supportive",
-        "analysis": "The user has expressed their need to buy new winter clothes, specifically a jacket and boots, due to the upcoming winter season. They seem to be in a prepared state of mind, as indicated by their use of the word 'advance' in their last utterance."
+        "analysis": "The user has expressed their need to buy new winter clothes, specifically a jacket and boots, due to the upcoming winter season. They seem to be in a prepared state of mind, as indicated by their use of the word 'advance' in their last utterance.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.8,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I felt bad when I lied to a friend. I just didnt want to hang out",

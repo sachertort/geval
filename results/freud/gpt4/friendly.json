@@ -303,481 +303,1201 @@
         "utt_1": "It was my birthday and my partner's gift was a hand watch. I am very grateful to have her in my life",
         "utt_2": "that is good, did you like your watch?",
         "utt_3": "Even if it was not luxurious, i perceived it to be special and i much appreciate this gift",
-        "generated_response": "I'm glad you enjoyed your thoughtful and meaningful gift. Happy belated birthday!"
+        "generated_response": "I'm glad you enjoyed your thoughtful and meaningful gift. Happy belated birthday!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.2,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I am scared about growing up, it is sort of unnerving",
         "utt_2": "That's true.. It is challenging. how old are you?",
         "utt_3": "I am 21, so sort of an adult, but not really",
-        "generated_response": "I know, it can be a confusing time. You're not alone in feeling that way. Just remember, it's okay to take things one step at a time."
+        "generated_response": "I know, it can be a confusing time. You're not alone in feeling that way. Just remember, it's okay to take things one step at a time.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.1,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.9,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I feeling good about the economy these days.",
         "utt_2": "That is good, what do you find good about the economy?",
         "utt_3": "The overall indicators and the down jones",
-        "generated_response": "I'm glad to hear that you're feeling positive about the economy based on the overall indicators and the Dow Jones. It's always great to have a positive outlook!"
+        "generated_response": "I'm glad to hear that you're feeling positive about the economy based on the overall indicators and the Dow Jones. It's always great to have a positive outlook!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.85,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.9,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I just found out I didn't get into the college I wanted to. I'm really disappointed and feel like I should give up",
         "utt_2": "Don't give up! You will find a better place and it will be the perfect fit.",
         "utt_3": "I'm trying to see that side of it, but it's the only school I wanted to go to",
-        "generated_response": "I understand how disappointing it is, but there are other great opportunities out there waiting for you. Keep looking and you'll find the right fit."
+        "generated_response": "I understand how disappointing it is, but there are other great opportunities out there waiting for you. Keep looking and you'll find the right fit.",
+        "scores": {
+            "repetitiveness": 4.9,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.75,
+            "likability": 5.0,
+            "politeness": 4.5
+        }
     },
     {
         "utt_1": "I ran into a friend that I had not seen in years. We had a lot of catching up to do",
         "utt_2": "Cool. Are they still the same?",
         "utt_3": "Time changes all of us. But it was fun to think about the old times.",
-        "generated_response": "I can only imagine, it must have been a great reunion!"
+        "generated_response": "I can only imagine, it must have been a great reunion!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.65,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.9,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I can get fit in 3 months. Takes discipline",
         "utt_2": "Unfortunately, I have very little discipline. I'm probably too addicted to carbs to get fit very quickly.",
         "utt_3": "I eat plenty of carbs. It's all about timing",
-        "generated_response": "That's a great strategy! Timing can be key when it comes to carbs and fitness. I'll try to learn more about it."
+        "generated_response": "That's a great strategy! Timing can be key when it comes to carbs and fitness. I'll try to learn more about it.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.3,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I was really down after I found out that I was not going to be able to move.",
         "utt_2": "Why? How did that happen?",
         "utt_3": "Becaue I am stuck at a mine site and no one will buy me out. No one wants to live at a mine site with land collapsing everywhere.",
-        "generated_response": "I'm really sorry to hear that you're feeling down about being stuck at the mine site. It must be tough not having the freedom to move around. Have you considered reaching out to family or friends for support during this time? They might be able to help you through this difficult situation."
+        "generated_response": "I'm really sorry to hear that you're feeling down about being stuck at the mine site. It must be tough not having the freedom to move around. Have you considered reaching out to family or friends for support during this time? They might be able to help you through this difficult situation.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 4.75,
+            "likability": 4.85,
+            "politeness": 4.65
+        }
     },
     {
         "utt_1": "Becaue I am stuck at a mine site and no one will buy me out. No one wants to live at a mine site with land collapsing everywhere.",
         "utt_2": "That's so sad. I feel sorry for you.",
         "utt_3": "I feel sorry for me too!",
-        "generated_response": "I'm here to listen and offer support. It must be really tough for you. Hang in there."
+        "generated_response": "I'm here to listen and offer support. It must be really tough for you. Hang in there.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.5,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.55,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I was so mortified yesterday.  I slipped and fell in the parking lot in a spectacular fashion.",
         "utt_2": "Haha. Sorry to laugh but you said it in a funny way. Are you ok?",
         "utt_3": "Oh, I am fine.  Just my pride is bruised as it happened in front of a lot of people.",
-        "generated_response": "I'm glad you're okay. Falling in public can be embarrassing, but remember, everyone makes mistakes sometimes. It's how we learn and grow!"
+        "generated_response": "I'm glad you're okay. Falling in public can be embarrassing, but remember, everyone makes mistakes sometimes. It's how we learn and grow!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 4.95,
+            "politeness": 4.1
+        }
     },
     {
         "utt_1": "So i finally fully own my car now!",
         "utt_2": "Congratulations! That is exciting",
         "utt_3": "so many years of budgeting i even had to sell one of my computers once.",
-        "generated_response": "I'm glad you were able to reach your goal of fully owning your car, despite the sacrifices you had to make along the way."
+        "generated_response": "I'm glad you were able to reach your goal of fully owning your car, despite the sacrifices you had to make along the way.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "so many years of budgeting i even had to sell one of my computers once.",
         "utt_2": "but it's over now :) what kind of car?",
         "utt_3": "Honda Pilot 2014 still runs like a dream luckily.",
-        "generated_response": "That's great to hear! I'm glad you were able to hold onto the Honda Pilot and it's still in good shape."
+        "generated_response": "That's great to hear! I'm glad you were able to hold onto the Honda Pilot and it's still in good shape.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.9,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.7
+        }
     },
     {
         "utt_1": "About the same time last year, I went out with a friend for a sushi, it was a very pleasantly spent time.",
         "utt_2": "oh yea.. whats happened since then",
         "utt_3": "Not much really, we just had a small chat, but it just felt really satisfying.",
-        "generated_response": "I'm glad to hear that you had a great time last year enjoying sushi with your friend and that the conversation was satisfying. It's always nice to have pleasant experiences with friends."
+        "generated_response": "I'm glad to hear that you had a great time last year enjoying sushi with your friend and that the conversation was satisfying. It's always nice to have pleasant experiences with friends.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.45,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "My daughter lost her last baby tooth today, she's growing up and it gets me a little choked up.",
         "utt_2": "I was just talking about this with my friend. They are getting too old",
         "utt_3": "I know they have to grow up and all but can't they stay littles for a little bit longer?",
-        "generated_response": "I completely understand, it's hard to watch them grow up so fast!"
+        "generated_response": "I completely understand, it's hard to watch them grow up so fast!",
+        "scores": {
+            "repetitiveness": 4.9,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.2,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 4.95,
+            "politeness": 4.65
+        }
     },
     {
         "utt_1": "its a shame the way some people act towards the U.S",
         "utt_2": "I agree. I wish all the countries would get along. No need to be mean to each other.",
         "utt_3": "exactly! the world would be such a better place",
-        "generated_response": "Absolutely, I couldn't agree more. A more peaceful and understanding world would indeed be a beautiful place."
+        "generated_response": "Absolutely, I couldn't agree more. A more peaceful and understanding world would indeed be a beautiful place.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.25,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I get sentimental thinking about all the great times I had as a child on my street growing up",
         "utt_2": "It's a boon for everyone. Great life period is childhood.",
         "utt_3": "Yeah, that is for sure, I had a lot of great times there, so many memories",
-        "generated_response": "I completely agree, those childhood memories are priceless!"
+        "generated_response": "I completely agree, those childhood memories are priceless!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 2.9,
+            "empathetical_responding": 3.95,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 3.3,
+            "likability": 5.0,
+            "politeness": 4.7368421052631575
+        }
     },
     {
         "utt_1": "My mom and dad divorced when I was 9 and I went to live with my dad at age 10,",
         "utt_2": "Did you like living with your Dad?",
         "utt_3": "I did, but my mother wasn't around.  My grandmother filled in for her though.  I'm so thankful for her willingness to help me grow up.",
-        "generated_response": "That's wonderful to hear that your grandmother was there for you during a difficult time. I'm glad things worked out for you."
+        "generated_response": "That's wonderful to hear that your grandmother was there for you during a difficult time. I'm glad things worked out for you.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.65,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I ate the last piece of cake.",
         "utt_2": "What kind of cake was it",
         "utt_3": "It was tres leche. I have no regrets, but there will be very upset people.",
-        "generated_response": "Mmm, tres leche cake sounds delicious! I'm sure everyone will understand your sweet indulgence."
+        "generated_response": "Mmm, tres leche cake sounds delicious! I'm sure everyone will understand your sweet indulgence.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "it was brutal",
         "utt_2": "What was brutal?",
         "utt_3": "\"i didnt shower for a few days and had an important meeting. I could tell that they could smell me. I became a tomato\".",
-        "generated_response": "Oh no, I'm so sorry to hear that! I hope your important meeting went well despite the unfortunate circumstance. Maybe next time you'll remember to take a shower beforehand to feel and smell your best."
+        "generated_response": "Oh no, I'm so sorry to hear that! I hope your important meeting went well despite the unfortunate circumstance. Maybe next time you'll remember to take a shower beforehand to feel and smell your best.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.7,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.8,
+            "attentive_curiosity": 4.3,
+            "likability": 4.35,
+            "politeness": 3.95
+        }
     },
     {
         "utt_1": "\"i didnt shower for a few days and had an important meeting. I could tell that they could smell me. I became a tomato\".",
         "utt_2": "Really? No shower for few days?",
         "utt_3": "yes. homeless for a bit",
-        "generated_response": "I'm sorry to hear that you've been going through a tough time recently. Hope you're able to get back on your feet soon and have access to the basic necessities like a shower."
+        "generated_response": "I'm sorry to hear that you've been going through a tough time recently. Hope you're able to get back on your feet soon and have access to the basic necessities like a shower.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.4,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.9,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "I will be starting Law School in January.",
         "utt_2": "That's seriously impressive. Sounds like a lot of work, though. Hope it all works out. Are you nervous?",
         "utt_3": "I am.  It is a goal I have had but have never made the jump until now.",
-        "generated_response": "That's fantastic! I'm sure you'll do great. It takes a lot of courage to pursue new goals. Best of luck to you in Law School!"
+        "generated_response": "That's fantastic! I'm sure you'll do great. It takes a lot of courage to pursue new goals. Best of luck to you in Law School!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.75,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I just broke my finger, and I have a golf tournament coming up.",
         "utt_2": "Oh wow, are you okay?!",
         "utt_3": "I think it will be fine.  This is a big tournament for me, so I am keeping my fingers crossed (as much as possible) that it will heal in time for me to play.",
-        "generated_response": "I'm sending you positive vibes for a speedy recovery and a successful tournament!"
+        "generated_response": "I'm sending you positive vibes for a speedy recovery and a successful tournament!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.8,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "The other day this creepy guy followed me around the store and chased me out to the parking lot. He just wouldn't take a hint.",
         "utt_2": "That's very creepy, did he say anything to you?",
         "utt_3": "Yeah that's what made it weird, it was kind of like he was trying to hit on me but just awkward. But he was really pushy about it.",
-        "generated_response": "I'm so sorry to hear that. It's important to remember that no one deserves to feel uncomfortable or unsafe. If someone continues to make you feel uneasy, it's okay to remove yourself from the situation and report it to store security or the authorities if necessary."
+        "generated_response": "I'm so sorry to hear that. It's important to remember that no one deserves to feel uncomfortable or unsafe. If someone continues to make you feel uneasy, it's okay to remove yourself from the situation and report it to store security or the authorities if necessary.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My friend recently bought a brand new Mercedes.",
         "utt_2": "Oh wow. How do you feel about that?",
         "utt_3": "I am very envious of him.",
-        "generated_response": "I see, it must be tough to see your friend with a new Mercedes. Maybe someday you'll get to enjoy something just as nice!"
+        "generated_response": "I see, it must be tough to see your friend with a new Mercedes. Maybe someday you'll get to enjoy something just as nice!",
+        "scores": {
+            "repetitiveness": 4.95,
+            "empathetical_understanding": 3.55,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.8,
+            "attentive_curiosity": 4.3,
+            "likability": 4.3,
+            "politeness": 3.95
+        }
     },
     {
         "utt_1": "I was about to go to bed when my mother in law called with the shocking news that my sister in law was pregnant.",
         "utt_2": "Why is it so shocking?",
         "utt_3": "Because I never expected her to get pregnant so young.",
-        "generated_response": "I see, it must be a surprise for you then! Congratulations on the new addition to the family."
+        "generated_response": "I see, it must be a surprise for you then! Congratulations on the new addition to the family.",
+        "scores": {
+            "repetitiveness": 4.95,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.6,
+            "attentive_curiosity": 4.65,
+            "likability": 4.75,
+            "politeness": 4.6
+        }
     },
     {
         "utt_1": "We moved into a 200 year old house. There are creeks and cracks that creep me out!",
         "utt_2": "I can only imagine. At least its nice in the day time though?",
         "utt_3": "Sometimes. I try to avoid that attic during any time of the day! There's also a weird door about knee-height. When you open it up, it's just big enough to fit a storage tub.",
-        "generated_response": "That's quite the mystery door! Maybe it's a hidden treasure trove? Or just a surprise? Either way, it's intriguing!"
+        "generated_response": "That's quite the mystery door! Maybe it's a hidden treasure trove? Or just a surprise? Either way, it's intriguing!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.55,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 4.9,
+            "likability": 4.95,
+            "politeness": 4.1
+        }
     },
     {
         "utt_1": "I went out to the country to gaze at some stars.",
         "utt_2": "Cool! That sounds like a great time!",
         "utt_3": "I was overwhelmed by the enormity of the universe.",
-        "generated_response": "I can only imagine, it's a humbling experience isn't it?"
+        "generated_response": "I can only imagine, it's a humbling experience isn't it?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.1,
+            "empathetical_responding": 4.55,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "i went to a local restaurant , but the gloves that they wore touch everything including my food. ugh",
         "utt_2": "You mean the kitchen staff?",
         "utt_3": "yes!",
-        "generated_response": "I'm sorry to hear that. It's important for food handlers to follow proper hygiene practices to ensure the safety and quality of the food. It's worth mentioning this to the restaurant management for their consideration."
+        "generated_response": "I'm sorry to hear that. It's important for food handlers to follow proper hygiene practices to ensure the safety and quality of the food. It's worth mentioning this to the restaurant management for their consideration.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.95,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.65
+        }
     },
     {
         "utt_1": "So I have a vacation coming up in a few months.",
         "utt_2": "Oh yeah? Are you excited?",
         "utt_3": "Quite. I've been planning it for months now.",
-        "generated_response": "That's awesome! I bet you're really looking forward to it after all that planning. Enjoy every moment!"
+        "generated_response": "That's awesome! I bet you're really looking forward to it after all that planning. Enjoy every moment!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.25,
+            "empathetical_responding": 4.85,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I saw a dude driving a Porsche down the street of my city. Was definitely jealous lol",
         "utt_2": "I would have been to. I always wonder how people make the money necessary to buy vehicles like that.",
         "utt_3": "Yeah I am thinking this guy must be a CEO or something. If I had the money I would buy one for sure.",
-        "generated_response": "That's a dream car for many, I can only imagine the excitement and freedom that comes with driving one!"
+        "generated_response": "That's a dream car for many, I can only imagine the excitement and freedom that comes with driving one!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.2,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.85,
+            "likability": 5.0,
+            "politeness": 4.5
+        }
     },
     {
         "utt_1": "I am going on a week long vacation next month.  I am really excited and cannot wait!",
         "utt_2": "I wish i could afford a vacation like that.",
         "utt_3": "I got a really good deal.  And I am splitting the cost with someone.  It is going to be a blast",
-        "generated_response": "That's awesome! I'm so happy for you and can't wait to hear about all the fun you have on your trip."
+        "generated_response": "That's awesome! I'm so happy for you and can't wait to hear about all the fun you have on your trip.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.2,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I saw a video game trailer recently that really brought me back!",
         "utt_2": "Yeah? Which game was it for?",
         "utt_3": "The new Spyro Remastered game coming out. Seeing it really reminded me of how I used to play the original all day with an old friend of mine.",
-        "generated_response": "That's awesome! It's amazing how games can bring back fond memories. I bet you're looking forward to reliving those moments with the remastered version."
+        "generated_response": "That's awesome! It's amazing how games can bring back fond memories. I bet you're looking forward to reliving those moments with the remastered version.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I heard one of my favorite youtubers talking about the 90's the other day and how old we were lol. But it reminded me of fun times as a teen",
         "utt_2": "90s were good time. What is your favorite memory?",
         "utt_3": "I am not sure I can pick on favorite but I loved how there were no bills lol and it was just freedom to be creative and listen to music all night and hang out with friends talking until the late hours :)",
-        "generated_response": "That sounds like a wonderful time! I can only imagine the freedom and creativity that came with being a teen in the 90s."
+        "generated_response": "That sounds like a wonderful time! I can only imagine the freedom and creativity that came with being a teen in the 90s.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I rarely pre-order video games, but recently did for one that comes out in November.",
         "utt_2": "Which video game did you order?",
         "utt_3": "Fallout 76.  I swear, November can't come fast enough!",
-        "generated_response": "That's exciting! I can't wait to hear about your experience with Fallout 76 once it's released. Enjoy the wait!"
+        "generated_response": "That's exciting! I can't wait to hear about your experience with Fallout 76 once it's released. Enjoy the wait!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.6,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "We are moving soon and I'm so ready to go.",
         "utt_2": "Where to?",
         "utt_3": "Texas, there's so much to do there so I'm happy for the change.",
-        "generated_response": "That's exciting! Texas has a lot to offer, I'm sure you'll have a great time exploring all the new things there. Good luck with your move!"
+        "generated_response": "That's exciting! Texas has a lot to offer, I'm sure you'll have a great time exploring all the new things there. Good luck with your move!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.85,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "So my neighbor just bought a new car. I swear, he always gets really expensive stuff to show off how successful he is.",
         "utt_2": "That stinks. Maybe he is going through something that only new stuff can solve",
         "utt_3": "Maybe... but still. Now I feel like I need to buy one myself.",
-        "generated_response": "I understand how that can be tempting, but remember, true happiness comes from within and not from material possessions."
+        "generated_response": "I understand how that can be tempting, but remember, true happiness comes from within and not from material possessions.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.9,
+            "attentive_curiosity": 4.95,
+            "likability": 4.9,
+            "politeness": 4.65
+        }
     },
     {
         "utt_1": "I saw an ad for Disneyland the other day",
         "utt_2": "Oh really what was the ad about ?",
         "utt_3": "I think they run an ad every year as it was a 'summer' themed ad about all the summer attractions. I really want to go as I've only been once when I was a kid!",
-        "generated_response": "That sounds like so much fun! I bet it brings back great memories from your childhood. Have you considered planning a trip there soon?"
+        "generated_response": "That sounds like so much fun! I bet it brings back great memories from your childhood. Have you considered planning a trip there soon?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.35,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "we are going to a concert sunday, i am sure its going to be great",
         "utt_2": "That sounds like a lot of fun! Who are you going to see?",
         "utt_3": "breaking ben and 5 finger",
-        "generated_response": "Oh, I love Breaking Ben and 5 Finger Fillets! It's going to be an amazing show."
+        "generated_response": "Oh, I love Breaking Ben and 5 Finger Fillets! It's going to be an amazing show.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.1,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "My house feels like its taking forever to sell...but I have a feeling something good is going to come soon!",
         "utt_2": "How long have you been trying to sell it for?",
         "utt_3": "It's been almost 3 months now, but not 1 offer.",
-        "generated_response": "I'm sorry to hear that, it can be a frustrating process. Have you considered making any adjustments to your listing or reaching out to a real estate agent for advice? Sometimes a fresh perspective can help."
+        "generated_response": "I'm sorry to hear that, it can be a frustrating process. Have you considered making any adjustments to your listing or reaching out to a real estate agent for advice? Sometimes a fresh perspective can help.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.95,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.8,
+            "attentive_curiosity": 4.9,
+            "likability": 4.95,
+            "politeness": 4.0
+        }
     },
     {
         "utt_1": "It's very strange when you meet somebody you know, in the middle of a megalopolis.",
         "utt_2": "Yeah, it's like a small world.",
         "utt_3": "Exactly, how does it even work?",
-        "generated_response": "It's amazing how connected we all are in this big world!"
+        "generated_response": "It's amazing how connected we all are in this big world!",
+        "scores": {
+            "repetitiveness": 4.882352941176471,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.6,
+            "response_relatedness": 4.9,
+            "attentive_curiosity": 4.85,
+            "likability": 5.0,
+            "politeness": 4.35
+        }
     },
     {
         "utt_1": "My next door neighbor just bought the truck I wanted for myself.",
         "utt_2": "Are you jealous by this or does it make you angry?",
         "utt_3": "jelly for real.",
-        "generated_response": "I'm sorry to hear that, it's understandable to feel that way sometimes. Maybe there's another truck out there that's perfect for you!"
+        "generated_response": "I'm sorry to hear that, it's understandable to feel that way sometimes. Maybe there's another truck out there that's perfect for you!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.95,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 4.7,
+            "likability": 5.0,
+            "politeness": 4.75
+        }
     },
     {
         "utt_1": "My dad took me to a golf championship, the PGA that came to my home town last May. All the famous golfers you see on TV were there and I tripped down a hill in a dress!",
         "utt_2": "I hope you didn't get hurt. Did people laugh at you?",
         "utt_3": "No luckily I wasn't hurt physically but my ego was! No one laughed about it until after, they were more concerned then anything, they were actually very nice!",
-        "generated_response": "That's great to hear that everyone was supportive and concerned, even though it was an embarrassing moment for you."
+        "generated_response": "That's great to hear that everyone was supportive and concerned, even though it was an embarrassing moment for you.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.75,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "my pet dog pooped all over my rug last week. She never did that before",
         "utt_2": "Ah that always sucks, did she need to go out or is she sick or something?",
         "utt_3": "i don't know, she never did that before, i don't know if the crap or her behavior got to me more",
-        "generated_response": "I'm sorry to hear that, it can be really frustrating when our pets have accidents in the house. Have you tried taking her out more frequently or checking with the vet to see if there's an underlying health issue?"
+        "generated_response": "I'm sorry to hear that, it can be really frustrating when our pets have accidents in the house. Have you tried taking her out more frequently or checking with the vet to see if there's an underlying health issue?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.45
+        }
     },
     {
         "utt_1": "You just can't trust people any more. My mechanic told me it was going to be $1000 to fix my Jeep.",
         "utt_2": "Wow that sounds pretty high to me. What was wrong with it?",
         "utt_3": "Turns out, nothing much at all. A guy down the street got it running for $100.",
-        "generated_response": "Wow, that's quite a difference! I'm glad you found a more affordable solution. Sometimes it pays off to shop around!"
+        "generated_response": "Wow, that's quite a difference! I'm glad you found a more affordable solution. Sometimes it pays off to shop around!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.6,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "My dog died today.",
         "utt_2": "I'm sorry to hear that, that's got to be tough on you.",
         "utt_3": "It's a really rough time. I have never been so sad in my life.",
-        "generated_response": "I'm really sorry for your loss, it's a difficult time and I can't even imagine how much pain you must be feeling."
+        "generated_response": "I'm really sorry for your loss, it's a difficult time and I can't even imagine how much pain you must be feeling.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 5.0,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "Our coworker who has been with us for over 20 years just quit out of the blue.",
         "utt_2": "Oh no, I hate to heart that. I hope everything is okay.",
         "utt_3": "I hope so as well. We're all waiting to hear back from her.",
-        "generated_response": "I'm here for you, and I'm sure we'll all get through this together. Let's try to support each other during this time."
+        "generated_response": "I'm here for you, and I'm sure we'll all get through this together. Let's try to support each other during this time.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.25,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.65,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "School for my kids started again this past Thursday.",
         "utt_2": "How was that? Were you excited for some more quiet and for them to get back on a schedule? Or are you sad that it shows that they're getting older?",
         "utt_3": "It was good. I am dealing with a mixture of both emotions about them being back in school. I was happy I had all the supplies, clothes, shoes, and other odds and ends in time.",
-        "generated_response": "I'm so glad to hear that! It's always a bittersweet moment, isn't it? The relief of having everything ready and the kids back on a routine, but also the realization of how quickly they're growing up."
+        "generated_response": "I'm so glad to hear that! It's always a bittersweet moment, isn't it? The relief of having everything ready and the kids back on a routine, but also the realization of how quickly they're growing up.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.15,
+            "empathetical_responding": 4.85,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I'm really looking forward for the new Greek restaurant to open here.",
         "utt_2": "I have never had greek cuisine",
         "utt_3": "It's really good.  I can't wait to try it!",
-        "generated_response": "That's great to hear! I'm excited for you and can't wait to learn more about Greek food. Maybe I'll even try it with you when the new restaurant opens!"
+        "generated_response": "That's great to hear! I'm excited for you and can't wait to learn more about Greek food. Maybe I'll even try it with you when the new restaurant opens!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.2,
+            "empathetical_responding": 4.45,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My cousin bought a really pretty shirt that I had been wanting",
         "utt_2": "My cousin bought a really pretty shirt that I had been wanting",
         "utt_3": "that is not fun, does that mean you cannot get it now?",
-        "generated_response": "Yes, unfortunately, now you'll have to find another way to get it, but isn't it great that your cousin got something they liked too?"
+        "generated_response": "Yes, unfortunately, now you'll have to find another way to get it, but isn't it great that your cousin got something they liked too?",
+        "scores": {
+            "repetitiveness": 4.9,
+            "empathetical_understanding": 2.7,
+            "empathetical_responding": 3.65,
+            "response_relatedness": 4.65,
+            "attentive_curiosity": 4.3,
+            "likability": 4.0,
+            "politeness": 4.2
+        }
     },
     {
         "utt_1": "that is not fun, does that mean you cannot get it now?",
         "utt_2": "No I can but I didn't want her to have it and not me.",
         "utt_3": "that is no fun, does that mean you cannot buy it now?",
-        "generated_response": "I understand that you find it unfair, but unfortunately, I can't buy it right now."
+        "generated_response": "I understand that you find it unfair, but unfortunately, I can't buy it right now.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.95,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 4.8,
+            "attentive_curiosity": 4.7,
+            "likability": 4.2,
+            "politeness": 4.05
+        }
     },
     {
         "utt_1": "I found some of my kids artwork from when they were little and it made me miss having them around all the time.",
         "utt_2": "I know the feeling.I miss my 2 boys also",
         "utt_3": "It is hard when they move away.",
-        "generated_response": "I completely understand, it's never easy to see them go."
+        "generated_response": "I completely understand, it's never easy to see them go.",
+        "scores": {
+            "repetitiveness": 4.8,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.75,
+            "likability": 4.4,
+            "politeness": 4.7
+        }
     },
     {
         "utt_1": "I feel slightly bad. I think I hurt my mom's feelings last week because she told me about a necklace I got rid of when I was a kid. She's a packrat and I'm really, really not.",
         "utt_2": "Awww... reminds me of the show hoarders when the family members argue over silly things like that.  What was the necklace all about did you make it or something?",
         "utt_3": "I feel like her and my aunt kind of could be on that show. :/ I'm all about less stuff to pick up! lol Eh..it was a necklace she gave me when they found out they were pregnant. It said \"Special Sister\". I'm probably a jerk..",
-        "generated_response": "Aww, I see. Well, it's understandable that the necklace held sentimental value for your mom. Maybe you could try explaining that to her and see if you can find a way to make it up to her? It's the thought that counts, after all."
+        "generated_response": "Aww, I see. Well, it's understandable that the necklace held sentimental value for your mom. Maybe you could try explaining that to her and see if you can find a way to make it up to her? It's the thought that counts, after all.",
+        "scores": {
+            "repetitiveness": 4.9,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 4.8,
+            "likability": 5.0,
+            "politeness": 4.55
+        }
     },
     {
         "utt_1": "I feel like her and my aunt kind of could be on that show. :/ I'm all about less stuff to pick up! lol Eh..it was a necklace she gave me when they found out they were pregnant. It said \"Special Sister\". I'm probably a jerk..",
         "utt_2": "Well why did you have it if it belonged to them?  Did you pawn it?",
         "utt_3": "No, they bought it for me. I think I was going goodwill it and she grabbed it back. lol She said she wants to pass it onto my daughter someday so that's sweet.",
-        "generated_response": "That's so sweet of her to keep it in the family! I'm glad you two were able to find a solution."
+        "generated_response": "That's so sweet of her to keep it in the family! I'm glad you two were able to find a solution.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.25,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "My friend is a surgeon and we were discussing salary. He easily makes 200,000 a year and he is only 32. It's crazy and I was jealous of him.",
         "utt_2": "You shouldn't, because that is  a very stressful job",
         "utt_3": "Yeah, that's a good point. I also realized he has a high malpractice insurance, and is on call a lot.",
-        "generated_response": "I'm glad you're recognizing the challenges that come with such a high-pressure career. It's important to consider all aspects before feeling too envious."
+        "generated_response": "I'm glad you're recognizing the challenges that come with such a high-pressure career. It's important to consider all aspects before feeling too envious.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.2,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.05
+        }
     },
     {
         "utt_1": "I can't find my car keys since last night",
         "utt_2": "did you look all over for them?",
         "utt_3": "yes at least i am off from work today and can spend more  time looking",
-        "generated_response": "I'm sorry to hear that, maybe check the places you visited last before going to bed or ask your family members if they have seen them. Good luck in your search!"
+        "generated_response": "I'm sorry to hear that, maybe check the places you visited last before going to bed or ask your family members if they have seen them. Good luck in your search!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.65
+        }
     },
     {
         "utt_1": "My brother got suspended for something he did not do in high school by a very vindictive teacher.",
         "utt_2": "Wow. What a mature teacher.",
         "utt_3": "Yeah she eventually was fired a year later, but it still makes me angry to think about it",
-        "generated_response": "I'm so sorry that happened to your brother. It's unfair and I can't imagine how frustrating it must have been for him."
+        "generated_response": "I'm so sorry that happened to your brother. It's unfair and I can't imagine how frustrating it must have been for him.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.3,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.75
+        }
     },
     {
         "utt_1": "My ex is the worst.",
         "utt_2": "Why?",
         "utt_3": "He posted my number on facebook.",
-        "generated_response": "Oh no, that's really unfortunate. I'm here if you want to talk about it or need some advice on how to handle the situation."
+        "generated_response": "Oh no, that's really unfortunate. I'm here if you want to talk about it or need some advice on how to handle the situation.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I'm grateful for the work hours, but bummed that I can't get time off.",
         "utt_2": "Sorry to hear that. Maybe you can talk with your boss about changing the schedule a bit.",
         "utt_3": "Well, I've worked without a break for the last 3 years, I just want to get away abit.",
-        "generated_response": "I understand how important it is to take a break and recharge. Have you considered talking to your employer about taking some extended time off?"
+        "generated_response": "I understand how important it is to take a break and recharge. Have you considered talking to your employer about taking some extended time off?",
+        "scores": {
+            "repetitiveness": 4.3,
+            "empathetical_understanding": 3.95,
+            "empathetical_responding": 4.1,
+            "response_relatedness": 4.75,
+            "attentive_curiosity": 4.75,
+            "likability": 4.85,
+            "politeness": 4.65
+        }
     },
     {
         "utt_1": "I was watching my niece the other day, and seeing her playing made me miss my days of youth as well.",
         "utt_2": "Yeah I know what you mean, those days were the best",
         "utt_3": "I wish I had a time machine sometimes. Was a lot easier back then without all the responsibility of course.",
-        "generated_response": "I totally get it, those carefree days can be hard to leave behind."
+        "generated_response": "I totally get it, those carefree days can be hard to leave behind.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.4,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.35
+        }
     },
     {
         "utt_1": "So i am really mad right now. Brother took my car without asking and i have to go to work.",
         "utt_2": "That would really upset me! How are you going to get to work?",
         "utt_3": "I dunno all my friends are busy and no one is even answering the phone at work.",
-        "generated_response": "I'm sorry to hear that, it can be really frustrating when we need help and no one seems to be available. Have you tried calling a taxi or using public transportation as an alternative?"
+        "generated_response": "I'm sorry to hear that, it can be really frustrating when we need help and no one seems to be available. Have you tried calling a taxi or using public transportation as an alternative?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.1,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.8
+        }
     },
     {
         "utt_1": "One year my cousin wasn't going to get her young son anything for Christmas. It broke my heart so my husband and I bought his Santa gifts that year.",
         "utt_2": "That was very nice of you.",
         "utt_3": "The little guy deserved a Christmas and we really loved him.",
-        "generated_response": "I'm glad you were able to make that special Christmas happen for your cousin's son. It's a beautiful gesture."
+        "generated_response": "I'm glad you were able to make that special Christmas happen for your cousin's son. It's a beautiful gesture.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.1,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I am so jittery over starting my new job tomorrow.",
         "utt_2": "New jobs nerves is pretty normal. Get a good rest!",
         "utt_3": "If only I could fall asleep!",
-        "generated_response": "I'm sorry to hear that. Maybe try some calming techniques, like deep breathing or a warm bath, to help you relax and drift off."
+        "generated_response": "I'm sorry to hear that. Maybe try some calming techniques, like deep breathing or a warm bath, to help you relax and drift off.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.95,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.9,
+            "attentive_curiosity": 4.8,
+            "likability": 5.0,
+            "politeness": 4.45
+        }
     },
     {
         "utt_1": "Last month, my family and I drove to Colorado to visit my sister.",
         "utt_2": "That sounds fun how long has it been since you have seen her?",
         "utt_3": "Not very long because she came to visit us about 3 weeks before we went there. The trip was fun, but the driving always scares me.",
-        "generated_response": "I can imagine, long road trips can be a bit nerve-wracking. It's great that you got to see your sister twice in a short amount of time though!"
+        "generated_response": "I can imagine, long road trips can be a bit nerve-wracking. It's great that you got to see your sister twice in a short amount of time though!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.75
+        }
     },
     {
         "utt_1": "i was trying to sleep train my son but i failed. i didn't it's gonna be that hard. I think we will be co sleeping till he goes to college",
         "utt_2": "Ha ha, I'm sure he'll get the the hang of it eventually. It takes some children longer than others to get used to.",
         "utt_3": "I hope so, i miss sleeping in a comfortable position without baby feet in my face",
-        "generated_response": "I totally understand, co-sleeping can be cozy but exhausting at times. Hang in there and try to find small moments of rest when you can!"
+        "generated_response": "I totally understand, co-sleeping can be cozy but exhausting at times. Hang in there and try to find small moments of rest when you can!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.65,
+            "likability": 5.0,
+            "politeness": 4.15
+        }
     },
     {
         "utt_1": "I checked my mail yesterday",
         "utt_2": "Whar happened?",
         "utt_3": "I got a check in the mail from my insurance company.  Didn't expect that!",
-        "generated_response": "That's so exciting! I hope it's good news and everything is going well with your insurance."
+        "generated_response": "That's so exciting! I hope it's good news and everything is going well with your insurance.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.1,
+            "empathetical_responding": 4.85,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.9,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "I recently spent a couple of restless days awaiting the results of a skin biopsy.  I had a weird mole come up out of nowhere.",
         "utt_2": "I am sorry to hear that. I hope the results will be good.",
         "utt_3": "I got them back yesterday, and it was good news.  No cancer!",
-        "generated_response": "That's wonderful news! I'm so glad to hear that the results were clear."
+        "generated_response": "That's wonderful news! I'm so glad to hear that the results were clear.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 5.0,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I have a very good friend and her boyfriend made sexual advances towards me. I never did tell my friend, for various reasons, but I feel really guilty and bad about it@!",
         "utt_2": "It can be hard in those situation I know you don't want to loose a friend in the end.",
         "utt_3": "Yes, and there were financial and personal reasons of her own that is why I didn't tell her. Plus, I really hated to hurt her, but I guess I should have told her.",
-        "generated_response": "I understand, it's a complicated situation and it's never easy to know how to handle such delicate matters. It's important to consider the potential consequences of speaking up, but ultimately, honesty can help build trust and strengthen relationships."
+        "generated_response": "I understand, it's a complicated situation and it's never easy to know how to handle such delicate matters. It's important to consider the potential consequences of speaking up, but ultimately, honesty can help build trust and strengthen relationships.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.1,
+            "response_relatedness": 4.8,
+            "attentive_curiosity": 4.9,
+            "likability": 5.0,
+            "politeness": 4.35
+        }
     },
     {
         "utt_1": "I want to go on a vacation next month but now I cant.",
         "utt_2": "what happened?",
         "utt_3": "Mys husbands job sucks and they had to cancel his vacation because they arnt staffed right.",
-        "generated_response": "I'm sorry to hear that, it's tough when unexpected work commitments get in the way of plans. Hopefully things will work out for both of you soon."
+        "generated_response": "I'm sorry to hear that, it's tough when unexpected work commitments get in the way of plans. Hopefully things will work out for both of you soon.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 4.9,
+            "likability": 5.0,
+            "politeness": 4.8
+        }
     },
     {
         "utt_1": "Can you believe my dad won and didn't give me any?",
         "utt_2": "what did he won? were you hoping for some help?",
         "utt_3": "He won the lotto and won't split the prize with his son",
-        "generated_response": "Wow, that's too bad to hear. I hope things get better for you soon."
+        "generated_response": "Wow, that's too bad to hear. I hope things get better for you soon.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.55,
+            "empathetical_responding": 3.75,
+            "response_relatedness": 4.0,
+            "attentive_curiosity": 2.85,
+            "likability": 4.45,
+            "politeness": 4.1
+        }
     },
     {
         "utt_1": "im scared of this big test tomorrow",
         "utt_2": "Have you studied for it?  Always helps to prepare!",
         "utt_3": "yes i have, still nervous though",
-        "generated_response": "I understand, it's natural to feel nervous even when you're well-prepared. Just remember to take deep breaths and trust in your abilities. You've got this!"
+        "generated_response": "I understand, it's natural to feel nervous even when you're well-prepared. Just remember to take deep breaths and trust in your abilities. You've got this!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.65
+        }
     },
     {
         "utt_1": "I am broke and cannot afford to pay my bills. I am afraid that I have hurt my family because of my mental issues. I am embarrassed to tell anyone.",
         "utt_2": "I'm so sorry to hear that. What can I do to help?",
         "utt_3": "I don't think there is anything you can do to help. This is something, I most likely will need to resolve on my own. Unfortunately.",
-        "generated_response": "I understand that you want to handle this alone, but if you ever need someone to talk to or a listening ear, I'm here for you. You're not alone in this."
+        "generated_response": "I understand that you want to handle this alone, but if you ever need someone to talk to or a listening ear, I'm here for you. You're not alone in this.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.1,
+            "empathetical_responding": 4.6,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I don't think there is anything you can do to help. This is something, I most likely will need to resolve on my own. Unfortunately.",
         "utt_2": "Perhaps you could see a counselor or therapist, that might help.",
         "utt_3": "My insurance will not cover this type of expenses. I am medicated, but I do not feel that it helps.",
-        "generated_response": "I'm really sorry to hear that the medication isn't working for you. Have you considered looking into support groups or low-cost counseling options in your area? They might be able to provide some additional resources or assistance."
+        "generated_response": "I'm really sorry to hear that the medication isn't working for you. Have you considered looking into support groups or low-cost counseling options in your area? They might be able to provide some additional resources or assistance.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.55,
+            "attentive_curiosity": 4.55,
+            "likability": 4.95,
+            "politeness": 4.4
+        }
     },
     {
         "utt_1": "My insurance will not cover this type of expenses. I am medicated, but I do not feel that it helps.",
         "utt_2": "Oh that's too bad. There are many free programs that you might be able to access.",
         "utt_3": "Maybe so, I should look into that. I feel like just speaking to someone about this would help.",
-        "generated_response": "I completely understand, and there are support groups and hotlines that you can reach out to for a listening ear and to connect with others going through similar experiences."
+        "generated_response": "I completely understand, and there are support groups and hotlines that you can reach out to for a listening ear and to connect with others going through similar experiences.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "My neighbor returned my golf clubs yesterday after I thought I lost them at the golf course.",
         "utt_2": "That is a good news. Did he kept them with him for a long period of time?",
         "utt_3": "He didn't! He promptly returned them to me once he found them. I was so thankful.",
-        "generated_response": "I'm glad they were returned safely to you. What a relief!"
+        "generated_response": "I'm glad they were returned safely to you. What a relief!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.85,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "You won't believe the day I've had! I got to sleep in this morning, I haven't done that in months!",
         "utt_2": "Its always nice to get some sleep",
         "utt_3": "Yes, my husband even cooked dinner for me today, and helped clean the house! He has been very helpful today.",
-        "generated_response": "That's wonderful to hear, it's always great when we get a little extra help around the house!"
+        "generated_response": "That's wonderful to hear, it's always great when we get a little extra help around the house!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.2,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "My teacher said If i do what she says she can guarantee ill pass",
         "utt_2": "Well it's a teacher's goal to make sure his or her students succeed.  She wants you to do your best.",
         "utt_3": "Thats right, I am very greatfull for that indeed.",
-        "generated_response": "I'm glad to hear that! Your teacher's support will surely help you on your way to passing. Good luck with your studies!"
+        "generated_response": "I'm glad to hear that! Your teacher's support will surely help you on your way to passing. Good luck with your studies!",
+        "scores": {
+            "repetitiveness": 4.95,
+            "empathetical_understanding": 4.1,
+            "empathetical_responding": 4.85,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "A few weeks ago I was on a bus trip. I had a ticket back home for a late bus but I wanted to leave earlier. There was an earlier bus that was supposed to be full. I decided to take my chances and try to get that earlier bus. I asked the driver if there was any chance of getting on and to my surprise I was able to!",
         "utt_2": "You really got lucky that day.",
         "utt_3": "I know. I made it home so much earlier than I had planned!",
-        "generated_response": "That's great to hear! I'm glad you were able to make it home earlier than expected. It's always nice when things work out in our favor."
+        "generated_response": "That's great to hear! I'm glad you were able to make it home earlier than expected. It's always nice when things work out in our favor.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.2,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "I just had my third job interview this month yesterday! It's been really great having so many job interveiws and I've gotten positive feedback from all of them! I really think I'm going to get one of these jobs!",
         "utt_2": "Oh I hope you do get the job! What is it?",
         "utt_3": "Thank you. It's a produt manager job for Nestle. It pays really well and I'm very excitied about the possibilities!",
-        "generated_response": "That's fantastic news! I'm rooting for you to get the product manager job at Nestle. The possibilities sound exciting!"
+        "generated_response": "That's fantastic news! I'm rooting for you to get the product manager job at Nestle. The possibilities sound exciting!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.2,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I planted a whole bunch of flower bushes this year. I cannot wait until next spring when my entire garden will be in bloom with so many wonderful colors and smells.",
         "utt_2": "It will be amazing!  I should do that too!",
         "utt_3": "Yes! I just went to the local nursery and they had so many plants to choose from. I made sure to only choose the ones that had some kind of fragrant smell. I am dreaming of all the flower arrangements I will make next year.",
-        "generated_response": "That sounds lovely! I bet your garden will be the talk of the town next year with all those beautiful fragrant flowers."
+        "generated_response": "That sounds lovely! I bet your garden will be the talk of the town next year with all those beautiful fragrant flowers.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My daughter left for vacation with her friend.",
         "utt_2": "Wow! Where did they go?",
         "utt_3": "They went to Coco beach. It is so quiet and boring here without her.",
-        "generated_response": "I bet they're having a great time at Coco beach. It's too bad you're missing the excitement at home!"
+        "generated_response": "I bet they're having a great time at Coco beach. It's too bad you're missing the excitement at home!",
+        "scores": {
+            "repetitiveness": 4.8,
+            "empathetical_understanding": 1.8,
+            "empathetical_responding": 2.05,
+            "response_relatedness": 2.3,
+            "attentive_curiosity": 2.65,
+            "likability": 1.9,
+            "politeness": 2.3
+        }
     },
     {
         "utt_1": "I need to buy some clothes for winter. I need a new jacket and boots.",
         "utt_2": "5",
         "utt_3": "Winter come so quickly. So I need to be well prepared in advance.",
-        "generated_response": "Absolutely, I completely understand! I'd be happy to help you find a great jacket and boots for the upcoming winter season. Let's get started on your shopping list!"
+        "generated_response": "Absolutely, I completely understand! I'd be happy to help you find a great jacket and boots for the upcoming winter season. Let's get started on your shopping list!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I felt bad when I lied to a friend. I just didnt want to hang out",

@@ -303,481 +303,1201 @@
         "utt_1": "It was my birthday and my partner's gift was a hand watch. I am very grateful to have her in my life",
         "utt_2": "that is good, did you like your watch?",
         "utt_3": "Even if it was not luxurious, i perceived it to be special and i much appreciate this gift",
-        "generated_response": "I'm glad to hear that you appreciated the thought behind the gift, even if it wasn't luxurious. The fact that it was special to you is what truly matters. Happy birthday once again and here's to many more memorable moments together."
+        "generated_response": "I'm glad to hear that you appreciated the thought behind the gift, even if it wasn't luxurious. The fact that it was special to you is what truly matters. Happy birthday once again and here's to many more memorable moments together.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.45,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I am scared about growing up, it is sort of unnerving",
         "utt_2": "That's true.. It is challenging. how old are you?",
         "utt_3": "I am 21, so sort of an adult, but not really",
-        "generated_response": "I see, being 21 can be a confusing time. It's a period of transition from being a young adult to a fully-fledged adult. It's natural to feel a bit uneasy about it. But remember, growing up doesn't mean losing the excitement and curiosity of life. It's just a new chapter with new experiences and opportunities. You've got this! Is there anything specific that's making you feel scared or uncertain about growing up?"
+        "generated_response": "I see, being 21 can be a confusing time. It's a period of transition from being a young adult to a fully-fledged adult. It's natural to feel a bit uneasy about it. But remember, growing up doesn't mean losing the excitement and curiosity of life. It's just a new chapter with new experiences and opportunities. You've got this! Is there anything specific that's making you feel scared or uncertain about growing up?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.15,
+            "empathetical_responding": 4.7,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I feeling good about the economy these days.",
         "utt_2": "That is good, what do you find good about the economy?",
         "utt_3": "The overall indicators and the down jones",
-        "generated_response": "I see, you seem a bit down about the economy despite your initial positive statement. It's understandable that the Dow Jones index can be a source of concern, especially when it's not performing as well as we'd hope. Have you been keeping an eye on any specific economic indicators that have been causing you worry? I'd be happy to help discuss or provide some perspective if you'd like."
+        "generated_response": "I see, you seem a bit down about the economy despite your initial positive statement. It's understandable that the Dow Jones index can be a source of concern, especially when it's not performing as well as we'd hope. Have you been keeping an eye on any specific economic indicators that have been causing you worry? I'd be happy to help discuss or provide some perspective if you'd like.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.2,
+            "empathetical_responding": 2.9,
+            "response_relatedness": 2.15,
+            "attentive_curiosity": 3.5,
+            "likability": 3.9,
+            "politeness": 4.25
+        }
     },
     {
         "utt_1": "I just found out I didn't get into the college I wanted to. I'm really disappointed and feel like I should give up",
         "utt_2": "Don't give up! You will find a better place and it will be the perfect fit.",
         "utt_3": "I'm trying to see that side of it, but it's the only school I wanted to go to",
-        "generated_response": "I'm really sorry to hear that you didn't get into the college you wanted. It can be a tough blow, but it's important to remember that there are often other opportunities out there that might be even better suited for you. Have you considered reaching out to the admissions office to ask about why you weren't accepted? They might be able to provide some insight or advice. Additionally, there are often other schools with great programs that you might not have considered yet."
+        "generated_response": "I'm really sorry to hear that you didn't get into the college you wanted. It can be a tough blow, but it's important to remember that there are often other opportunities out there that might be even better suited for you. Have you considered reaching out to the admissions office to ask about why you weren't accepted? They might be able to provide some insight or advice. Additionally, there are often other schools with great programs that you might not have considered yet.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 4.9,
+            "likability": 5.0,
+            "politeness": 4.8
+        }
     },
     {
         "utt_1": "I ran into a friend that I had not seen in years. We had a lot of catching up to do",
         "utt_2": "Cool. Are they still the same?",
         "utt_3": "Time changes all of us. But it was fun to think about the old times.",
-        "generated_response": "It's wonderful to hear that you reconnected with an old friend and reminisced about the past. Change is a part of life, but the memories we share remain constant. Do you have any favorite memories or stories that you'd like to share? I'd love to hear more about it."
+        "generated_response": "It's wonderful to hear that you reconnected with an old friend and reminisced about the past. Change is a part of life, but the memories we share remain constant. Do you have any favorite memories or stories that you'd like to share? I'd love to hear more about it.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.4,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I can get fit in 3 months. Takes discipline",
         "utt_2": "Unfortunately, I have very little discipline. I'm probably too addicted to carbs to get fit very quickly.",
         "utt_3": "I eat plenty of carbs. It's all about timing",
-        "generated_response": "It's great to hear that you've found a way to manage your carb intake and still make progress towards getting fit. Maybe we could explore some meal planning strategies together, focusing on balanced meals and healthy carbs? Or perhaps we could find some fun workouts that don't feel like a chore and can help us stay motivated? Let's work on this journey together!"
+        "generated_response": "It's great to hear that you've found a way to manage your carb intake and still make progress towards getting fit. Maybe we could explore some meal planning strategies together, focusing on balanced meals and healthy carbs? Or perhaps we could find some fun workouts that don't feel like a chore and can help us stay motivated? Let's work on this journey together!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.3,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 4.9,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I was really down after I found out that I was not going to be able to move.",
         "utt_2": "Why? How did that happen?",
         "utt_3": "Becaue I am stuck at a mine site and no one will buy me out. No one wants to live at a mine site with land collapsing everywhere.",
-        "generated_response": "I'm really sorry to hear that you're feeling stuck and scared about the mine site situation. It must be really difficult for you. Have you considered reaching out to any support groups or organizations that might be able to help you navigate through this? There are often resources available for people in similar situations. You're not alone in this, and there may be others who have gone through something similar and can offer advice or support."
+        "generated_response": "I'm really sorry to hear that you're feeling stuck and scared about the mine site situation. It must be really difficult for you. Have you considered reaching out to any support groups or organizations that might be able to help you navigate through this? There are often resources available for people in similar situations. You're not alone in this, and there may be others who have gone through something similar and can offer advice or support.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.15,
+            "empathetical_responding": 4.5,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "Becaue I am stuck at a mine site and no one will buy me out. No one wants to live at a mine site with land collapsing everywhere.",
         "utt_2": "That's so sad. I feel sorry for you.",
         "utt_3": "I feel sorry for me too!",
-        "generated_response": "I understand how frustrating and scary that situation must be for you. Have you considered reaching out to family or friends for support or assistance? Or perhaps there are local organizations or community groups that could help in some way? It's important to remember that you're not alone in this, and there may be resources available to help you through this difficult time."
+        "generated_response": "I understand how frustrating and scary that situation must be for you. Have you considered reaching out to family or friends for support or assistance? Or perhaps there are local organizations or community groups that could help in some way? It's important to remember that you're not alone in this, and there may be resources available to help you through this difficult time.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.35,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.85
+        }
     },
     {
         "utt_1": "I was so mortified yesterday.  I slipped and fell in the parking lot in a spectacular fashion.",
         "utt_2": "Haha. Sorry to laugh but you said it in a funny way. Are you ok?",
         "utt_3": "Oh, I am fine.  Just my pride is bruised as it happened in front of a lot of people.",
-        "generated_response": "I'm glad to hear that you're okay despite the embarrassment. It takes courage to share such experiences, and it's important to remember that everyone makes mistakes. Don't worry too much about what others thought, and focus on taking care of yourself. If you need any help or support, I'm here for you."
+        "generated_response": "I'm glad to hear that you're okay despite the embarrassment. It takes courage to share such experiences, and it's important to remember that everyone makes mistakes. Don't worry too much about what others thought, and focus on taking care of yourself. If you need any help or support, I'm here for you.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "So i finally fully own my car now!",
         "utt_2": "Congratulations! That is exciting",
         "utt_3": "so many years of budgeting i even had to sell one of my computers once.",
-        "generated_response": "I'm glad to hear that you've reached a significant milestone by fully owning your car. I can only imagine the sense of accomplishment that comes with it, especially after years of budgeting. It's a testament to your determination and financial discipline. I'm happy for you! Regarding your comment about having to sell one of your computers, I can understand how difficult it might have been to make that decision."
+        "generated_response": "I'm glad to hear that you've reached a significant milestone by fully owning your car. I can only imagine the sense of accomplishment that comes with it, especially after years of budgeting. It's a testament to your determination and financial discipline. I'm happy for you! Regarding your comment about having to sell one of your computers, I can understand how difficult it might have been to make that decision.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.7,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "so many years of budgeting i even had to sell one of my computers once.",
         "utt_2": "but it's over now :) what kind of car?",
         "utt_3": "Honda Pilot 2014 still runs like a dream luckily.",
-        "generated_response": "That's great to hear that your Honda Pilot is still running well despite having had to sell a computer for budgeting reasons in the past. It's important to prioritize our expenses and find ways to make ends meet. If you ever need any help with budgeting or financial advice, feel free to let me know! :)"
+        "generated_response": "That's great to hear that your Honda Pilot is still running well despite having had to sell a computer for budgeting reasons in the past. It's important to prioritize our expenses and find ways to make ends meet. If you ever need any help with budgeting or financial advice, feel free to let me know! :)",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.5,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "About the same time last year, I went out with a friend for a sushi, it was a very pleasantly spent time.",
         "utt_2": "oh yea.. whats happened since then",
         "utt_3": "Not much really, we just had a small chat, but it just felt really satisfying.",
-        "generated_response": "That's wonderful to hear that you had a satisfying sushi outing with your friend last year. I hope you've had more such enjoyable moments since then. Have you tried any new sushi dishes or restaurants lately?"
+        "generated_response": "That's wonderful to hear that you had a satisfying sushi outing with your friend last year. I hope you've had more such enjoyable moments since then. Have you tried any new sushi dishes or restaurants lately?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.25,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "My daughter lost her last baby tooth today, she's growing up and it gets me a little choked up.",
         "utt_2": "I was just talking about this with my friend. They are getting too old",
         "utt_3": "I know they have to grow up and all but can't they stay littles for a little bit longer?",
-        "generated_response": "I completely understand how you feel. It's bittersweet watching our children grow up. I remember my own childhood, and it seems like just yesterday that I was losing my last baby tooth. It's a sign of them becoming more independent and growing up, but at the same time, it's hard to let go of the little ones we once knew. Maybe we can cherish these moments and create new ones together as they continue on their journey into adulthood."
+        "generated_response": "I completely understand how you feel. It's bittersweet watching our children grow up. I remember my own childhood, and it seems like just yesterday that I was losing my last baby tooth. It's a sign of them becoming more independent and growing up, but at the same time, it's hard to let go of the little ones we once knew. Maybe we can cherish these moments and create new ones together as they continue on their journey into adulthood.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.2,
+            "empathetical_responding": 4.65,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.9,
+            "likability": 5.0,
+            "politeness": 4.75
+        }
     },
     {
         "utt_1": "its a shame the way some people act towards the U.S",
         "utt_2": "I agree. I wish all the countries would get along. No need to be mean to each other.",
         "utt_3": "exactly! the world would be such a better place",
-        "generated_response": "I completely understand your sentiment. It's disheartening to see conflicts and negativity among people, especially between countries. I believe that fostering understanding and cooperation is the key to creating a better world for all. Let's focus on building bridges rather than walls, and work towards a future where everyone can live in peace and harmony."
+        "generated_response": "I completely understand your sentiment. It's disheartening to see conflicts and negativity among people, especially between countries. I believe that fostering understanding and cooperation is the key to creating a better world for all. Let's focus on building bridges rather than walls, and work towards a future where everyone can live in peace and harmony.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.9,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I get sentimental thinking about all the great times I had as a child on my street growing up",
         "utt_2": "It's a boon for everyone. Great life period is childhood.",
         "utt_3": "Yeah, that is for sure, I had a lot of great times there, so many memories",
-        "generated_response": "It's wonderful to hear you reminiscing about those cherished memories from your childhood. Those moments truly shape who we become as individuals. Do you have a favorite memory that stands out to you? I'd love to hear about it."
+        "generated_response": "It's wonderful to hear you reminiscing about those cherished memories from your childhood. Those moments truly shape who we become as individuals. Do you have a favorite memory that stands out to you? I'd love to hear about it.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.15,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "My mom and dad divorced when I was 9 and I went to live with my dad at age 10,",
         "utt_2": "Did you like living with your Dad?",
         "utt_3": "I did, but my mother wasn't around.  My grandmother filled in for her though.  I'm so thankful for her willingness to help me grow up.",
-        "generated_response": "I'm glad to hear that you found comfort in living with your dad and that your grandmother was there for you. It sounds like she played a significant role in helping you through a difficult time. I'm here if you ever want to talk about your experiences or just need someone to listen."
+        "generated_response": "I'm glad to hear that you found comfort in living with your dad and that your grandmother was there for you. It sounds like she played a significant role in helping you through a difficult time. I'm here if you ever want to talk about your experiences or just need someone to listen.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.3,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I ate the last piece of cake.",
         "utt_2": "What kind of cake was it",
         "utt_3": "It was tres leche. I have no regrets, but there will be very upset people.",
-        "generated_response": "I'm sorry to hear that you've eaten the last piece of tres leche cake and there will be upset people. Have you considered making another batch soon? It's a delicious cake, and I'm sure everyone would appreciate it. Or, perhaps you could suggest a replacement dessert for them to enjoy?"
+        "generated_response": "I'm sorry to hear that you've eaten the last piece of tres leche cake and there will be upset people. Have you considered making another batch soon? It's a delicious cake, and I'm sure everyone would appreciate it. Or, perhaps you could suggest a replacement dessert for them to enjoy?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.55
+        }
     },
     {
         "utt_1": "it was brutal",
         "utt_2": "What was brutal?",
         "utt_3": "\"i didnt shower for a few days and had an important meeting. I could tell that they could smell me. I became a tomato\".",
-        "generated_response": "I'm really sorry to hear that you had a tough time at your important meeting due to not being able to shower for a few days. It's understandable that you felt self-conscious about it and it's important to take care of ourselves, especially during stressful situations. Maybe next time, you could plan ahead and pack an extra set of clothes or consider carrying a travel-sized toiletries kit with you."
+        "generated_response": "I'm really sorry to hear that you had a tough time at your important meeting due to not being able to shower for a few days. It's understandable that you felt self-conscious about it and it's important to take care of ourselves, especially during stressful situations. Maybe next time, you could plan ahead and pack an extra set of clothes or consider carrying a travel-sized toiletries kit with you.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 4.9,
+            "attentive_curiosity": 4.9,
+            "likability": 4.65,
+            "politeness": 4.35
+        }
     },
     {
         "utt_1": "\"i didnt shower for a few days and had an important meeting. I could tell that they could smell me. I became a tomato\".",
         "utt_2": "Really? No shower for few days?",
         "utt_3": "yes. homeless for a bit",
-        "generated_response": "I'm really sorry to hear that you've been going through a tough time recently. Not being able to take a shower for a few days and having to attend an important meeting must have been an uncomfortable experience. It's important to take care of ourselves, both physically and mentally. If you ever need help or a listening ear, don't hesitate to reach out. Is there anything specific I can do to help you feel more comfortable right now?"
+        "generated_response": "I'm really sorry to hear that you've been going through a tough time recently. Not being able to take a shower for a few days and having to attend an important meeting must have been an uncomfortable experience. It's important to take care of ourselves, both physically and mentally. If you ever need help or a listening ear, don't hesitate to reach out. Is there anything specific I can do to help you feel more comfortable right now?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.15,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I will be starting Law School in January.",
         "utt_2": "That's seriously impressive. Sounds like a lot of work, though. Hope it all works out. Are you nervous?",
         "utt_3": "I am.  It is a goal I have had but have never made the jump until now.",
-        "generated_response": "I'm really happy for you and excited to see you take this big step towards achieving your goal. Law School is a significant commitment, but with determination and hard work, I'm sure you'll do great. If there's anything I can do to help or support you during this time, please don't hesitate to ask. Good luck with your studies!"
+        "generated_response": "I'm really happy for you and excited to see you take this big step towards achieving your goal. Law School is a significant commitment, but with determination and hard work, I'm sure you'll do great. If there's anything I can do to help or support you during this time, please don't hesitate to ask. Good luck with your studies!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.55,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I just broke my finger, and I have a golf tournament coming up.",
         "utt_2": "Oh wow, are you okay?!",
         "utt_3": "I think it will be fine.  This is a big tournament for me, so I am keeping my fingers crossed (as much as possible) that it will heal in time for me to play.",
-        "generated_response": "I'm really sorry to hear that you broke your finger and have a big golf tournament coming up. I hope the injury heals quickly and you're able to play without too much discomfort. Best of luck to you in the tournament! "
+        "generated_response": "I'm really sorry to hear that you broke your finger and have a big golf tournament coming up. I hope the injury heals quickly and you're able to play without too much discomfort. Best of luck to you in the tournament! ",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.35,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "The other day this creepy guy followed me around the store and chased me out to the parking lot. He just wouldn't take a hint.",
         "utt_2": "That's very creepy, did he say anything to you?",
         "utt_3": "Yeah that's what made it weird, it was kind of like he was trying to hit on me but just awkward. But he was really pushy about it.",
-        "generated_response": "I'm really sorry to hear that you had an uncomfortable experience at the store. It's important that you feel safe and respected in public places. Have you considered reporting this incident to the store management or security? They may be able to help prevent similar situations in the future. Additionally, it might be a good idea to avoid interacting with this person if you encounter them again."
+        "generated_response": "I'm really sorry to hear that you had an uncomfortable experience at the store. It's important that you feel safe and respected in public places. Have you considered reporting this incident to the store management or security? They may be able to help prevent similar situations in the future. Additionally, it might be a good idea to avoid interacting with this person if you encounter them again.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.4,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My friend recently bought a brand new Mercedes.",
         "utt_2": "Oh wow. How do you feel about that?",
         "utt_3": "I am very envious of him.",
-        "generated_response": "I see. It's understandable to feel envious sometimes. Have you considered trying to find the positives in your own situation? Or perhaps there's a way you could treat yourself to something nice as well?"
+        "generated_response": "I see. It's understandable to feel envious sometimes. Have you considered trying to find the positives in your own situation? Or perhaps there's a way you could treat yourself to something nice as well?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.85,
+            "attentive_curiosity": 4.75,
+            "likability": 4.95,
+            "politeness": 4.15
+        }
     },
     {
         "utt_1": "I was about to go to bed when my mother in law called with the shocking news that my sister in law was pregnant.",
         "utt_2": "Why is it so shocking?",
         "utt_3": "Because I never expected her to get pregnant so young.",
-        "generated_response": "I see, it must be a surprise for you. Congratulations to your sister-in-law, though. It's an exciting time for them. But I can understand why you might feel sad or surprised. Change can be difficult to accept sometimes. Is there anything specific you're feeling sad about, or anything you'd like to talk about? I'm here to listen."
+        "generated_response": "I see, it must be a surprise for you. Congratulations to your sister-in-law, though. It's an exciting time for them. But I can understand why you might feel sad or surprised. Change can be difficult to accept sometimes. Is there anything specific you're feeling sad about, or anything you'd like to talk about? I'm here to listen.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.7
+        }
     },
     {
         "utt_1": "We moved into a 200 year old house. There are creeks and cracks that creep me out!",
         "utt_2": "I can only imagine. At least its nice in the day time though?",
         "utt_3": "Sometimes. I try to avoid that attic during any time of the day! There's also a weird door about knee-height. When you open it up, it's just big enough to fit a storage tub.",
-        "generated_response": "I can understand how those mysterious areas can be unsettling. Have you considered exploring them with a flashlight or a friend during daylight hours? It might help put your mind at ease. Alternatively, you could try decorating those spaces with some cozy items or artwork to make them feel more inviting."
+        "generated_response": "I can understand how those mysterious areas can be unsettling. Have you considered exploring them with a flashlight or a friend during daylight hours? It might help put your mind at ease. Alternatively, you could try decorating those spaces with some cozy items or artwork to make them feel more inviting.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.1,
+            "response_relatedness": 4.85,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.6
+        }
     },
     {
         "utt_1": "I went out to the country to gaze at some stars.",
         "utt_2": "Cool! That sounds like a great time!",
         "utt_3": "I was overwhelmed by the enormity of the universe.",
-        "generated_response": "It's amazing how the night sky can make us feel so small yet connected to something much larger. I've had similar experiences, and it's always a humbling reminder of the vastness of the universe. "
+        "generated_response": "It's amazing how the night sky can make us feel so small yet connected to something much larger. I've had similar experiences, and it's always a humbling reminder of the vastness of the universe. ",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.85,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "i went to a local restaurant , but the gloves that they wore touch everything including my food. ugh",
         "utt_2": "You mean the kitchen staff?",
         "utt_3": "yes!",
-        "generated_response": "I'm really sorry to hear that you had an unpleasant experience with the kitchen staff at the local restaurant wearing gloves while handling your food. This can be quite off-putting and understandably, you're feeling disgusted. Have you considered contacting the restaurant management and sharing your concerns with them? They might be able to address the issue and ensure that proper hygiene practices are being followed in the kitchen."
+        "generated_response": "I'm really sorry to hear that you had an unpleasant experience with the kitchen staff at the local restaurant wearing gloves while handling your food. This can be quite off-putting and understandably, you're feeling disgusted. Have you considered contacting the restaurant management and sharing your concerns with them? They might be able to address the issue and ensure that proper hygiene practices are being followed in the kitchen.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "So I have a vacation coming up in a few months.",
         "utt_2": "Oh yeah? Are you excited?",
         "utt_3": "Quite. I've been planning it for months now.",
-        "generated_response": "That's great to hear that you've been looking forward to your vacation for months! I bet it's going to be an amazing experience. Have you made all your travel arrangements yet? Or is there anything specific you need help with? I'd be happy to assist if I can."
+        "generated_response": "That's great to hear that you've been looking forward to your vacation for months! I bet it's going to be an amazing experience. Have you made all your travel arrangements yet? Or is there anything specific you need help with? I'd be happy to assist if I can.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.1,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I saw a dude driving a Porsche down the street of my city. Was definitely jealous lol",
         "utt_2": "I would have been to. I always wonder how people make the money necessary to buy vehicles like that.",
         "utt_3": "Yeah I am thinking this guy must be a CEO or something. If I had the money I would buy one for sure.",
-        "generated_response": "It's amazing how cars like that can turn heads and inspire dreams! If only I could take a closer look or even test drive one someday. Maybe I'll work towards saving up or finding a way to make it happen. Have you ever been in a Porsche before? What was that experience like for you?"
+        "generated_response": "It's amazing how cars like that can turn heads and inspire dreams! If only I could take a closer look or even test drive one someday. Maybe I'll work towards saving up or finding a way to make it happen. Have you ever been in a Porsche before? What was that experience like for you?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 3.9,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 4.9,
+            "attentive_curiosity": 5.0,
+            "likability": 4.95,
+            "politeness": 4.7
+        }
     },
     {
         "utt_1": "I am going on a week long vacation next month.  I am really excited and cannot wait!",
         "utt_2": "I wish i could afford a vacation like that.",
         "utt_3": "I got a really good deal.  And I am splitting the cost with someone.  It is going to be a blast",
-        "generated_response": "That's great to hear that you're able to go on a week-long vacation and have a good deal to make it affordable. I'm really happy for you and I hope you have an amazing time! Enjoy every moment of it."
+        "generated_response": "That's great to hear that you're able to go on a week-long vacation and have a good deal to make it affordable. I'm really happy for you and I hope you have an amazing time! Enjoy every moment of it.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.15,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I saw a video game trailer recently that really brought me back!",
         "utt_2": "Yeah? Which game was it for?",
         "utt_3": "The new Spyro Remastered game coming out. Seeing it really reminded me of how I used to play the original all day with an old friend of mine.",
-        "generated_response": "That's great to hear that the new Spyro Remastered game has brought back fond memories for you! I've always enjoyed Spyro myself. Do you plan on getting the remastered version when it comes out? It might be fun to play it together with your old friend again."
+        "generated_response": "That's great to hear that the new Spyro Remastered game has brought back fond memories for you! I've always enjoyed Spyro myself. Do you plan on getting the remastered version when it comes out? It might be fun to play it together with your old friend again.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.7,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "I heard one of my favorite youtubers talking about the 90's the other day and how old we were lol. But it reminded me of fun times as a teen",
         "utt_2": "90s were good time. What is your favorite memory?",
         "utt_3": "I am not sure I can pick on favorite but I loved how there were no bills lol and it was just freedom to be creative and listen to music all night and hang out with friends talking until the late hours :)",
-        "generated_response": "I completely agree with you! The 90s were a time of freedom and creativity. I remember staying up late with friends, listening to music, and not having to worry about bills. Those were some of the best times. Do you have a favorite song from that era that brings back those memories?"
+        "generated_response": "I completely agree with you! The 90s were a time of freedom and creativity. I remember staying up late with friends, listening to music, and not having to worry about bills. Those were some of the best times. Do you have a favorite song from that era that brings back those memories?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.25,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I rarely pre-order video games, but recently did for one that comes out in November.",
         "utt_2": "Which video game did you order?",
         "utt_3": "Fallout 76.  I swear, November can't come fast enough!",
-        "generated_response": "That's an exciting choice! I've heard great things about Fallout 76. I'm sure the wait will be worth it. Do you plan on playing it solo or with friends? I'd love to hear more about your gaming plans for the upcoming release."
+        "generated_response": "That's an exciting choice! I've heard great things about Fallout 76. I'm sure the wait will be worth it. Do you plan on playing it solo or with friends? I'd love to hear more about your gaming plans for the upcoming release.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.65,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "We are moving soon and I'm so ready to go.",
         "utt_2": "Where to?",
         "utt_3": "Texas, there's so much to do there so I'm happy for the change.",
-        "generated_response": "That's exciting! Texas has a lot to offer, from its rich history to its vibrant culture and beautiful landscapes. I'm sure you'll have a great time exploring all the new opportunities there. Good luck with your move!"
+        "generated_response": "That's exciting! Texas has a lot to offer, from its rich history to its vibrant culture and beautiful landscapes. I'm sure you'll have a great time exploring all the new opportunities there. Good luck with your move!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "So my neighbor just bought a new car. I swear, he always gets really expensive stuff to show off how successful he is.",
         "utt_2": "That stinks. Maybe he is going through something that only new stuff can solve",
         "utt_3": "Maybe... but still. Now I feel like I need to buy one myself.",
-        "generated_response": "I understand how you feel, it can be tough seeing someone else make a big purchase. But remember, it's important to focus on what's best for you and your situation. Maybe consider setting a budget for yourself and saving up for something you've been wanting for a while. Or, try to find joy in the things you already have. Sometimes, the grass can seem greener on the other side, but it's important to appreciate what we have in our own lives."
+        "generated_response": "I understand how you feel, it can be tough seeing someone else make a big purchase. But remember, it's important to focus on what's best for you and your situation. Maybe consider setting a budget for yourself and saving up for something you've been wanting for a while. Or, try to find joy in the things you already have. Sometimes, the grass can seem greener on the other side, but it's important to appreciate what we have in our own lives.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.1,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.7
+        }
     },
     {
         "utt_1": "I saw an ad for Disneyland the other day",
         "utt_2": "Oh really what was the ad about ?",
         "utt_3": "I think they run an ad every year as it was a 'summer' themed ad about all the summer attractions. I really want to go as I've only been once when I was a kid!",
-        "generated_response": "That's so exciting to hear that you're eager to go back to Disneyland and experience the summer attractions again! Have you considered planning a trip with some friends or family? It could be a great opportunity for creating new memories."
+        "generated_response": "That's so exciting to hear that you're eager to go back to Disneyland and experience the summer attractions again! Have you considered planning a trip with some friends or family? It could be a great opportunity for creating new memories.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.8,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "we are going to a concert sunday, i am sure its going to be great",
         "utt_2": "That sounds like a lot of fun! Who are you going to see?",
         "utt_3": "breaking ben and 5 finger",
-        "generated_response": "That's an exciting lineup for a concert! I've heard great things about both Breaking Ben and 5 Finger. I'm sure the energy and atmosphere will be electric. Enjoy the show this Sunday!"
+        "generated_response": "That's an exciting lineup for a concert! I've heard great things about both Breaking Ben and 5 Finger. I'm sure the energy and atmosphere will be electric. Enjoy the show this Sunday!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.35,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My house feels like its taking forever to sell...but I have a feeling something good is going to come soon!",
         "utt_2": "How long have you been trying to sell it for?",
         "utt_3": "It's been almost 3 months now, but not 1 offer.",
-        "generated_response": "I'm really sorry to hear that you've been waiting for a while now without any offers on your house. I can only imagine how frustrating that must be. Have you considered reaching out to a real estate agent or broker for advice? They might have some insights or strategies to help you sell your house more effectively. Alternatively, you could consider making some improvements to your home, like decluttering, painting, or even minor repairs, to make it more appealing to potential buyers."
+        "generated_response": "I'm really sorry to hear that you've been waiting for a while now without any offers on your house. I can only imagine how frustrating that must be. Have you considered reaching out to a real estate agent or broker for advice? They might have some insights or strategies to help you sell your house more effectively. Alternatively, you could consider making some improvements to your home, like decluttering, painting, or even minor repairs, to make it more appealing to potential buyers.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.75
+        }
     },
     {
         "utt_1": "It's very strange when you meet somebody you know, in the middle of a megalopolis.",
         "utt_2": "Yeah, it's like a small world.",
         "utt_3": "Exactly, how does it even work?",
-        "generated_response": "It's fascinating, isn't it? The unexpected encounters in a bustling city can make us feel connected to the world in a strange yet wonderful way. Do you have any theories on how or why these encounters happen?"
+        "generated_response": "It's fascinating, isn't it? The unexpected encounters in a bustling city can make us feel connected to the world in a strange yet wonderful way. Do you have any theories on how or why these encounters happen?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.3,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.85
+        }
     },
     {
         "utt_1": "My next door neighbor just bought the truck I wanted for myself.",
         "utt_2": "Are you jealous by this or does it make you angry?",
         "utt_3": "jelly for real.",
-        "generated_response": "I'm sorry to hear that you're feeling jealous about your neighbor buying the truck you wanted. It's natural to feel that way sometimes, but try not to let it get to you too much. Maybe you could consider saving up for a different model or even a new hobby to take your mind off of it. Or, you could try talking to your neighbor and see if they'd be willing to let you take it for a spin every now and then."
+        "generated_response": "I'm sorry to hear that you're feeling jealous about your neighbor buying the truck you wanted. It's natural to feel that way sometimes, but try not to let it get to you too much. Maybe you could consider saving up for a different model or even a new hobby to take your mind off of it. Or, you could try talking to your neighbor and see if they'd be willing to let you take it for a spin every now and then.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 4.9,
+            "attentive_curiosity": 4.6,
+            "likability": 4.8,
+            "politeness": 4.15
+        }
     },
     {
         "utt_1": "My dad took me to a golf championship, the PGA that came to my home town last May. All the famous golfers you see on TV were there and I tripped down a hill in a dress!",
         "utt_2": "I hope you didn't get hurt. Did people laugh at you?",
         "utt_3": "No luckily I wasn't hurt physically but my ego was! No one laughed about it until after, they were more concerned then anything, they were actually very nice!",
-        "generated_response": "I'm glad to hear that no one laughed at you and that you were okay physically. It takes courage to attend such events, and tripping down a hill in a dress can be embarrassing, but it's essential to remember that everyone makes mistakes. You're still young and will have many more opportunities to impress people with your grace and poise. Keep your head high and enjoy the experience!"
+        "generated_response": "I'm glad to hear that no one laughed at you and that you were okay physically. It takes courage to attend such events, and tripping down a hill in a dress can be embarrassing, but it's essential to remember that everyone makes mistakes. You're still young and will have many more opportunities to impress people with your grace and poise. Keep your head high and enjoy the experience!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.15,
+            "empathetical_responding": 4.6,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "my pet dog pooped all over my rug last week. She never did that before",
         "utt_2": "Ah that always sucks, did she need to go out or is she sick or something?",
         "utt_3": "i don't know, she never did that before, i don't know if the crap or her behavior got to me more",
-        "generated_response": "I'm sorry to hear that your dog had an accident on your rug last week. I can imagine how frustrating and disappointing that must have been for you, especially since it's not something she's done before. Have you tried taking her for longer walks or checking her diet to see if there are any changes that could be causing this behavior? It might be worth consulting with a vet to rule out any health issues as well."
+        "generated_response": "I'm sorry to hear that your dog had an accident on your rug last week. I can imagine how frustrating and disappointing that must have been for you, especially since it's not something she's done before. Have you tried taking her for longer walks or checking her diet to see if there are any changes that could be causing this behavior? It might be worth consulting with a vet to rule out any health issues as well.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.7,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.65
+        }
     },
     {
         "utt_1": "You just can't trust people any more. My mechanic told me it was going to be $1000 to fix my Jeep.",
         "utt_2": "Wow that sounds pretty high to me. What was wrong with it?",
         "utt_3": "Turns out, nothing much at all. A guy down the street got it running for $100.",
-        "generated_response": "I'm really surprised to hear that the cost varied so much between the two mechanics! It's important to remember that not all shops charge the same for services, and it's always a good idea to get a second opinion before making a decision. In the future, you might consider getting quotes from a few different places to ensure you're getting a fair price."
+        "generated_response": "I'm really surprised to hear that the cost varied so much between the two mechanics! It's important to remember that not all shops charge the same for services, and it's always a good idea to get a second opinion before making a decision. In the future, you might consider getting quotes from a few different places to ensure you're getting a fair price.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "My dog died today.",
         "utt_2": "I'm sorry to hear that, that's got to be tough on you.",
         "utt_3": "It's a really rough time. I have never been so sad in my life.",
-        "generated_response": "I'm really sorry for your loss. Losing a beloved pet can be one of the most difficult experiences. If you need someone to talk to or just want to share some memories, I'm here for you. You're not alone in this, and it's okay to feel sad. Take your time to grieve and remember the happy moments you shared with your dog."
+        "generated_response": "I'm really sorry for your loss. Losing a beloved pet can be one of the most difficult experiences. If you need someone to talk to or just want to share some memories, I'm here for you. You're not alone in this, and it's okay to feel sad. Take your time to grieve and remember the happy moments you shared with your dog.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 5.0,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "Our coworker who has been with us for over 20 years just quit out of the blue.",
         "utt_2": "Oh no, I hate to heart that. I hope everything is okay.",
         "utt_3": "I hope so as well. We're all waiting to hear back from her.",
-        "generated_response": "I'm really sorry to hear that your long-time coworker has left unexpectedly. I can only imagine how shocking that must be for everyone. Have you all had a chance to check in with each other and see if there's anything you can do to support one another during this time? It might be helpful to come together and discuss what this means for the team and how you can move forward. I'm here if you need to talk or brainstorm ideas."
+        "generated_response": "I'm really sorry to hear that your long-time coworker has left unexpectedly. I can only imagine how shocking that must be for everyone. Have you all had a chance to check in with each other and see if there's anything you can do to support one another during this time? It might be helpful to come together and discuss what this means for the team and how you can move forward. I'm here if you need to talk or brainstorm ideas.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "School for my kids started again this past Thursday.",
         "utt_2": "How was that? Were you excited for some more quiet and for them to get back on a schedule? Or are you sad that it shows that they're getting older?",
         "utt_3": "It was good. I am dealing with a mixture of both emotions about them being back in school. I was happy I had all the supplies, clothes, shoes, and other odds and ends in time.",
-        "generated_response": "I'm glad to hear that the start of the new school year went well for your kids! It's a bittersweet feeling, isn't it? On one hand, it's wonderful to see them grow and learn new things. On the other hand, it's hard to believe how fast time is flying by. I'm sure you'll enjoy the quieter moments at home, but I can also imagine missing the chaos of the school break."
+        "generated_response": "I'm glad to hear that the start of the new school year went well for your kids! It's a bittersweet feeling, isn't it? On one hand, it's wonderful to see them grow and learn new things. On the other hand, it's hard to believe how fast time is flying by. I'm sure you'll enjoy the quieter moments at home, but I can also imagine missing the chaos of the school break.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.35,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.9,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I'm really looking forward for the new Greek restaurant to open here.",
         "utt_2": "I have never had greek cuisine",
         "utt_3": "It's really good.  I can't wait to try it!",
-        "generated_response": "I'm glad to hear that you're excited about the new Greek restaurant! I've heard great things about it, and I'm looking forward to trying it out as well. Maybe we can go together sometime?"
+        "generated_response": "I'm glad to hear that you're excited about the new Greek restaurant! I've heard great things about it, and I'm looking forward to trying it out as well. Maybe we can go together sometime?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.85,
+            "likability": 4.75,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "My cousin bought a really pretty shirt that I had been wanting",
         "utt_2": "My cousin bought a really pretty shirt that I had been wanting",
         "utt_3": "that is not fun, does that mean you cannot get it now?",
-        "generated_response": "I'm glad your cousin was able to get the shirt you had your eyes on! It must have made you happy seeing her in it. As for you, don't worry, there are plenty of other options out there that you might like just as much. Would you like me to help you find some similar shirts or perhaps suggest some other items that might catch your eye?"
+        "generated_response": "I'm glad your cousin was able to get the shirt you had your eyes on! It must have made you happy seeing her in it. As for you, don't worry, there are plenty of other options out there that you might like just as much. Would you like me to help you find some similar shirts or perhaps suggest some other items that might catch your eye?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 1.2,
+            "empathetical_responding": 2.75,
+            "response_relatedness": 2.65,
+            "attentive_curiosity": 4.2,
+            "likability": 4.6,
+            "politeness": 4.85
+        }
     },
     {
         "utt_1": "that is not fun, does that mean you cannot get it now?",
         "utt_2": "No I can but I didn't want her to have it and not me.",
         "utt_3": "that is no fun, does that mean you cannot buy it now?",
-        "generated_response": "I'm sorry if I gave you that impression. I was just expressing my feelings about the situation. But, yes, I can still buy it if I want to. Would you like to join me in purchasing it together? It might be more fun that way!"
+        "generated_response": "I'm sorry if I gave you that impression. I was just expressing my feelings about the situation. But, yes, I can still buy it if I want to. Would you like to join me in purchasing it together? It might be more fun that way!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.4,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.85
+        }
     },
     {
         "utt_1": "I found some of my kids artwork from when they were little and it made me miss having them around all the time.",
         "utt_2": "I know the feeling.I miss my 2 boys also",
         "utt_3": "It is hard when they move away.",
-        "generated_response": "I completely understand how hard it can be when our kids grow up and move away. It's bittersweet, isn't it? The joy of watching them grow into independent individuals, but the sadness of no longer having them around all the time. Have you tried keeping in touch through regular calls or video chats? That can help make the distance feel a little smaller."
+        "generated_response": "I completely understand how hard it can be when our kids grow up and move away. It's bittersweet, isn't it? The joy of watching them grow into independent individuals, but the sadness of no longer having them around all the time. Have you tried keeping in touch through regular calls or video chats? That can help make the distance feel a little smaller.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.1,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.85
+        }
     },
     {
         "utt_1": "I feel slightly bad. I think I hurt my mom's feelings last week because she told me about a necklace I got rid of when I was a kid. She's a packrat and I'm really, really not.",
         "utt_2": "Awww... reminds me of the show hoarders when the family members argue over silly things like that.  What was the necklace all about did you make it or something?",
         "utt_3": "I feel like her and my aunt kind of could be on that show. :/ I'm all about less stuff to pick up! lol Eh..it was a necklace she gave me when they found out they were pregnant. It said \"Special Sister\". I'm probably a jerk..",
-        "generated_response": "I'm really sorry to hear that you're feeling sad about this situation. It's understandable that you have different feelings about possessions than your mom. The necklace was a thoughtful gift from her, and it holds special meaning for her. It's important to remember that even though we may not attach the same emotional value to things, that doesn't make her feelings any less valid."
+        "generated_response": "I'm really sorry to hear that you're feeling sad about this situation. It's understandable that you have different feelings about possessions than your mom. The necklace was a thoughtful gift from her, and it holds special meaning for her. It's important to remember that even though we may not attach the same emotional value to things, that doesn't make her feelings any less valid.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.2,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I feel like her and my aunt kind of could be on that show. :/ I'm all about less stuff to pick up! lol Eh..it was a necklace she gave me when they found out they were pregnant. It said \"Special Sister\". I'm probably a jerk..",
         "utt_2": "Well why did you have it if it belonged to them?  Did you pawn it?",
         "utt_3": "No, they bought it for me. I think I was going goodwill it and she grabbed it back. lol She said she wants to pass it onto my daughter someday so that's sweet.",
-        "generated_response": "That's a beautiful necklace with a special meaning behind it. I'm glad your aunt wants to keep it in the family. It's a lovely tradition, isn't it? I'm sure your daughter will cherish it someday."
+        "generated_response": "That's a beautiful necklace with a special meaning behind it. I'm glad your aunt wants to keep it in the family. It's a lovely tradition, isn't it? I'm sure your daughter will cherish it someday.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.1,
+            "empathetical_responding": 4.55,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My friend is a surgeon and we were discussing salary. He easily makes 200,000 a year and he is only 32. It's crazy and I was jealous of him.",
         "utt_2": "You shouldn't, because that is  a very stressful job",
         "utt_3": "Yeah, that's a good point. I also realized he has a high malpractice insurance, and is on call a lot.",
-        "generated_response": "I can understand how impressive and perhaps even a little jealousy-inducing it can be to hear about someone's high salary at a young age. But, it's important to remember that every job comes with its own challenges and responsibilities. Your friend being a surgeon, for instance, means he has a significant financial burden with high malpractice insurance. Not to mention the long hours and the emotional weight of saving lives."
+        "generated_response": "I can understand how impressive and perhaps even a little jealousy-inducing it can be to hear about someone's high salary at a young age. But, it's important to remember that every job comes with its own challenges and responsibilities. Your friend being a surgeon, for instance, means he has a significant financial burden with high malpractice insurance. Not to mention the long hours and the emotional weight of saving lives.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.4,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.5
+        }
     },
     {
         "utt_1": "I can't find my car keys since last night",
         "utt_2": "did you look all over for them?",
         "utt_3": "yes at least i am off from work today and can spend more  time looking",
-        "generated_response": "I'm sorry to hear that you've misplaced your car keys. It can be frustrating when we lose something important. Have you tried checking the usual spots where you often place them, like your pockets, bags, or countertops? Sometimes, they might be closer than we think. If you've already searched there, you could ask your family members or roommates if they've seen them. I'm here to help in any way I can."
+        "generated_response": "I'm sorry to hear that you've misplaced your car keys. It can be frustrating when we lose something important. Have you tried checking the usual spots where you often place them, like your pockets, bags, or countertops? Sometimes, they might be closer than we think. If you've already searched there, you could ask your family members or roommates if they've seen them. I'm here to help in any way I can.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "My brother got suspended for something he did not do in high school by a very vindictive teacher.",
         "utt_2": "Wow. What a mature teacher.",
         "utt_3": "Yeah she eventually was fired a year later, but it still makes me angry to think about it",
-        "generated_response": "I'm really sorry to hear that your brother went through that experience with a vindictive teacher. It's unfortunate that she was able to cause harm even if she was eventually fired. If there's anything you or your brother would like to talk about or if you just need someone to listen, I'm here for you."
+        "generated_response": "I'm really sorry to hear that your brother went through that experience with a vindictive teacher. It's unfortunate that she was able to cause harm even if she was eventually fired. If there's anything you or your brother would like to talk about or if you just need someone to listen, I'm here for you.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My ex is the worst.",
         "utt_2": "Why?",
         "utt_3": "He posted my number on facebook.",
-        "generated_response": "I'm really sorry to hear that your ex posted your number on Facebook without your consent. That must have come as a surprise and caused you some distress. Have you tried contacting Facebook to have it removed? They usually take such reports seriously and can help you out. If you need any assistance or moral support, feel free to share more details or just vent. I'm here for you."
+        "generated_response": "I'm really sorry to hear that your ex posted your number on Facebook without your consent. That must have come as a surprise and caused you some distress. Have you tried contacting Facebook to have it removed? They usually take such reports seriously and can help you out. If you need any assistance or moral support, feel free to share more details or just vent. I'm here for you.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.5,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I'm grateful for the work hours, but bummed that I can't get time off.",
         "utt_2": "Sorry to hear that. Maybe you can talk with your boss about changing the schedule a bit.",
         "utt_3": "Well, I've worked without a break for the last 3 years, I just want to get away abit.",
-        "generated_response": "I'm really sorry to hear that you've been working hard for the past 3 years without a break. It's important to take care of yourself and recharge. Have you considered applying for a sabbatical or extended leave? It might be worth discussing the possibility with your boss. If not, perhaps there are other ways to take a break, like working from home for a few days or taking shorter but more frequent breaks during the workday."
+        "generated_response": "I'm really sorry to hear that you've been working hard for the past 3 years without a break. It's important to take care of yourself and recharge. Have you considered applying for a sabbatical or extended leave? It might be worth discussing the possibility with your boss. If not, perhaps there are other ways to take a break, like working from home for a few days or taking shorter but more frequent breaks during the workday.",
+        "scores": {
+            "repetitiveness": 4.842105263157895,
+            "empathetical_understanding": 4.1,
+            "empathetical_responding": 4.6,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I was watching my niece the other day, and seeing her playing made me miss my days of youth as well.",
         "utt_2": "Yeah I know what you mean, those days were the best",
         "utt_3": "I wish I had a time machine sometimes. Was a lot easier back then without all the responsibility of course.",
-        "generated_response": "I completely understand how you feel. Those carefree days of youth do seem appealing at times. If only we could go back and relive those moments! But then again, every experience, good or bad, shapes us into who we are today. Maybe a time machine isn't such a great idea after all. Instead, let's cherish the memories and make new ones with our loved ones."
+        "generated_response": "I completely understand how you feel. Those carefree days of youth do seem appealing at times. If only we could go back and relive those moments! But then again, every experience, good or bad, shapes us into who we are today. Maybe a time machine isn't such a great idea after all. Instead, let's cherish the memories and make new ones with our loved ones.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.55,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "So i am really mad right now. Brother took my car without asking and i have to go to work.",
         "utt_2": "That would really upset me! How are you going to get to work?",
         "utt_3": "I dunno all my friends are busy and no one is even answering the phone at work.",
-        "generated_response": "I'm really sorry to hear that you're having a tough time right now. It's frustrating when things don't go as planned, especially when it comes to relying on others. Have you considered reaching out to a coworker or a friend who might be able to help you get to work? Or perhaps there's public transportation or a taxi service you could use? I'm here if you want to talk through your options or just vent a little more."
+        "generated_response": "I'm really sorry to hear that you're having a tough time right now. It's frustrating when things don't go as planned, especially when it comes to relying on others. Have you considered reaching out to a coworker or a friend who might be able to help you get to work? Or perhaps there's public transportation or a taxi service you could use? I'm here if you want to talk through your options or just vent a little more.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.1,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "One year my cousin wasn't going to get her young son anything for Christmas. It broke my heart so my husband and I bought his Santa gifts that year.",
         "utt_2": "That was very nice of you.",
         "utt_3": "The little guy deserved a Christmas and we really loved him.",
-        "generated_response": "It's wonderful that you and your husband went the extra mile to make that little boy's Christmas special. I'm sure it meant a lot to both of them."
+        "generated_response": "It's wonderful that you and your husband went the extra mile to make that little boy's Christmas special. I'm sure it meant a lot to both of them.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.8,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I am so jittery over starting my new job tomorrow.",
         "utt_2": "New jobs nerves is pretty normal. Get a good rest!",
         "utt_3": "If only I could fall asleep!",
-        "generated_response": "I'm really sorry to hear that you're having trouble sleeping due to your anxiety about your new job. Have you tried any relaxation techniques, like deep breathing or progressive muscle relaxation? Sometimes those can help calm the mind and body before bed. If not, I'd be happy to suggest some resources or tips if that would be helpful. Good luck with your new job, I'm sure you'll do great!"
+        "generated_response": "I'm really sorry to hear that you're having trouble sleeping due to your anxiety about your new job. Have you tried any relaxation techniques, like deep breathing or progressive muscle relaxation? Sometimes those can help calm the mind and body before bed. If not, I'd be happy to suggest some resources or tips if that would be helpful. Good luck with your new job, I'm sure you'll do great!",
+        "scores": {
+            "repetitiveness": 4.947368421052632,
+            "empathetical_understanding": 4.35,
+            "empathetical_responding": 4.65,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "Last month, my family and I drove to Colorado to visit my sister.",
         "utt_2": "That sounds fun how long has it been since you have seen her?",
         "utt_3": "Not very long because she came to visit us about 3 weeks before we went there. The trip was fun, but the driving always scares me.",
-        "generated_response": "I see, it sounds like you've been seeing your sister fairly frequently, which is great! I can understand why the driving might still be scary for you. Have you considered flying next time to make the travel less stressful? Or perhaps looking into car safety features or techniques to help alleviate your fears while driving? Let me know if there's anything else I can help with!"
+        "generated_response": "I see, it sounds like you've been seeing your sister fairly frequently, which is great! I can understand why the driving might still be scary for you. Have you considered flying next time to make the travel less stressful? Or perhaps looking into car safety features or techniques to help alleviate your fears while driving? Let me know if there's anything else I can help with!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.2,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.85
+        }
     },
     {
         "utt_1": "i was trying to sleep train my son but i failed. i didn't it's gonna be that hard. I think we will be co sleeping till he goes to college",
         "utt_2": "Ha ha, I'm sure he'll get the the hang of it eventually. It takes some children longer than others to get used to.",
         "utt_3": "I hope so, i miss sleeping in a comfortable position without baby feet in my face",
-        "generated_response": "I completely understand how you feel, co-sleeping can be quite the experience! But don't lose hope, every child is unique and they'll eventually learn to sleep on their own. In the meantime, maybe try some sleep training techniques that work best for you and your son. And who knows, you might even enjoy the extra snuggles! \ud83d\ude0a "
+        "generated_response": "I completely understand how you feel, co-sleeping can be quite the experience! But don't lose hope, every child is unique and they'll eventually learn to sleep on their own. In the meantime, maybe try some sleep training techniques that work best for you and your son. And who knows, you might even enjoy the extra snuggles! \ud83d\ude0a ",
+        "scores": {
+            "repetitiveness": 4.95,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 4.9,
+            "likability": 5.0,
+            "politeness": 4.5
+        }
     },
     {
         "utt_1": "I checked my mail yesterday",
         "utt_2": "Whar happened?",
         "utt_3": "I got a check in the mail from my insurance company.  Didn't expect that!",
-        "generated_response": "That's great news! I'm glad to hear that you received a surprise check from your insurance company. If you have any questions or concerns about the check, feel free to let me know and I'll do my best to help you out. Otherwise, enjoy the unexpected bonus!"
+        "generated_response": "That's great news! I'm glad to hear that you received a surprise check from your insurance company. If you have any questions or concerns about the check, feel free to let me know and I'll do my best to help you out. Otherwise, enjoy the unexpected bonus!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.15,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I recently spent a couple of restless days awaiting the results of a skin biopsy.  I had a weird mole come up out of nowhere.",
         "utt_2": "I am sorry to hear that. I hope the results will be good.",
         "utt_3": "I got them back yesterday, and it was good news.  No cancer!",
-        "generated_response": "I'm so glad to hear that the results were good and that there's no cancer! It must have been a nerve-wracking wait. I'm here for you if you need to talk about it or if you have any questions or concerns. Take care and I hope you feel relieved now."
+        "generated_response": "I'm so glad to hear that the results were good and that there's no cancer! It must have been a nerve-wracking wait. I'm here for you if you need to talk about it or if you have any questions or concerns. Take care and I hope you feel relieved now.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.85,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I have a very good friend and her boyfriend made sexual advances towards me. I never did tell my friend, for various reasons, but I feel really guilty and bad about it@!",
         "utt_2": "It can be hard in those situation I know you don't want to loose a friend in the end.",
         "utt_3": "Yes, and there were financial and personal reasons of her own that is why I didn't tell her. Plus, I really hated to hurt her, but I guess I should have told her.",
-        "generated_response": "I can understand how complicated and difficult that situation must have been for you. It's important to consider the potential consequences of telling your friend, as well as the reasons why you chose not to. However, it's also important to consider the potential harm that could come from keeping this secret. Perhaps you could consider talking to a trusted confidant or a professional counselor to help you navigate this situation and make the best decision for yourself and your friendship."
+        "generated_response": "I can understand how complicated and difficult that situation must have been for you. It's important to consider the potential consequences of telling your friend, as well as the reasons why you chose not to. However, it's also important to consider the potential harm that could come from keeping this secret. Perhaps you could consider talking to a trusted confidant or a professional counselor to help you navigate this situation and make the best decision for yourself and your friendship.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.1,
+            "empathetical_responding": 4.35,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.65
+        }
     },
     {
         "utt_1": "I want to go on a vacation next month but now I cant.",
         "utt_2": "what happened?",
         "utt_3": "Mys husbands job sucks and they had to cancel his vacation because they arnt staffed right.",
-        "generated_response": "I'm really sorry to hear that your husband's job is causing him to miss out on his vacation. That must be disappointing for both of you. Have you considered discussing with his employer about the importance of taking time off for work-life balance? Sometimes, bringing up the issue with a clear and respectful approach can lead to positive results."
+        "generated_response": "I'm really sorry to hear that your husband's job is causing him to miss out on his vacation. That must be disappointing for both of you. Have you considered discussing with his employer about the importance of taking time off for work-life balance? Sometimes, bringing up the issue with a clear and respectful approach can lead to positive results.",
+        "scores": {
+            "repetitiveness": 4.95,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.0,
+            "response_relatedness": 4.75,
+            "attentive_curiosity": 4.85,
+            "likability": 4.9,
+            "politeness": 4.45
+        }
     },
     {
         "utt_1": "Can you believe my dad won and didn't give me any?",
         "utt_2": "what did he won? were you hoping for some help?",
         "utt_3": "He won the lotto and won't split the prize with his son",
-        "generated_response": "I'm really sorry to hear that your dad didn't share the lotto winnings with you. It must be disappointing. Have you considered talking to him about it? Sometimes, having an open conversation can help clear up misunderstandings. If you'd rather not, there are other ways to make some extra money, like looking for part-time jobs or starting a small business. I'm here if you need someone to talk to or if you have any questions."
+        "generated_response": "I'm really sorry to hear that your dad didn't share the lotto winnings with you. It must be disappointing. Have you considered talking to him about it? Sometimes, having an open conversation can help clear up misunderstandings. If you'd rather not, there are other ways to make some extra money, like looking for part-time jobs or starting a small business. I'm here if you need someone to talk to or if you have any questions.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 4.05,
+            "response_relatedness": 4.9,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 4.75
+        }
     },
     {
         "utt_1": "im scared of this big test tomorrow",
         "utt_2": "Have you studied for it?  Always helps to prepare!",
         "utt_3": "yes i have, still nervous though",
-        "generated_response": "I understand that even though you've studied, it's natural to feel nervous before a big test. Have you tried any relaxation techniques to help calm your nerves? Deep breathing, visualization, or even a short walk can help reduce anxiety. Remember, you've prepared well, and I believe in you!"
+        "generated_response": "I understand that even though you've studied, it's natural to feel nervous before a big test. Have you tried any relaxation techniques to help calm your nerves? Deep breathing, visualization, or even a short walk can help reduce anxiety. Remember, you've prepared well, and I believe in you!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.05,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "I am broke and cannot afford to pay my bills. I am afraid that I have hurt my family because of my mental issues. I am embarrassed to tell anyone.",
         "utt_2": "I'm so sorry to hear that. What can I do to help?",
         "utt_3": "I don't think there is anything you can do to help. This is something, I most likely will need to resolve on my own. Unfortunately.",
-        "generated_response": "I understand that you feel like you need to handle this situation alone. But sometimes, it can be helpful to talk things through with someone. I'm here for you, and I'll listen and support you in any way I can. You don't have to go through this alone. Let's explore some options together. What are your thoughts on reaching out to a trusted friend or family member for support? Or perhaps there are community resources or organizations that could provide assistance? I'"
+        "generated_response": "I understand that you feel like you need to handle this situation alone. But sometimes, it can be helpful to talk things through with someone. I'm here for you, and I'll listen and support you in any way I can. You don't have to go through this alone. Let's explore some options together. What are your thoughts on reaching out to a trusted friend or family member for support? Or perhaps there are community resources or organizations that could provide assistance? I'",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.2,
+            "empathetical_responding": 4.85,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I don't think there is anything you can do to help. This is something, I most likely will need to resolve on my own. Unfortunately.",
         "utt_2": "Perhaps you could see a counselor or therapist, that might help.",
         "utt_3": "My insurance will not cover this type of expenses. I am medicated, but I do not feel that it helps.",
-        "generated_response": "I'm really sorry to hear that you're feeling this way and that therapy or counseling isn't an option for you right now due to financial constraints. It's understandable that it can be difficult to navigate through these feelings alone, but I want you to know that you don't have to face them by yourself. There are other resources and support systems available that might be able to help. Have you considered reaching out to support groups or organizations in your community?"
+        "generated_response": "I'm really sorry to hear that you're feeling this way and that therapy or counseling isn't an option for you right now due to financial constraints. It's understandable that it can be difficult to navigate through these feelings alone, but I want you to know that you don't have to face them by yourself. There are other resources and support systems available that might be able to help. Have you considered reaching out to support groups or organizations in your community?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 4.95,
+            "attentive_curiosity": 4.9,
+            "likability": 4.95,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My insurance will not cover this type of expenses. I am medicated, but I do not feel that it helps.",
         "utt_2": "Oh that's too bad. There are many free programs that you might be able to access.",
         "utt_3": "Maybe so, I should look into that. I feel like just speaking to someone about this would help.",
-        "generated_response": "I'm really sorry to hear that your medication isn't helping you feel better and that your insurance won't cover the expenses for other options. I understand how frustrating and overwhelming that can be. Speaking to someone about your feelings can be a great first step, and there are many resources available for free or at a low cost, such as support groups or counseling services."
+        "generated_response": "I'm really sorry to hear that your medication isn't helping you feel better and that your insurance won't cover the expenses for other options. I understand how frustrating and overwhelming that can be. Speaking to someone about your feelings can be a great first step, and there are many resources available for free or at a low cost, such as support groups or counseling services.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.35,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My neighbor returned my golf clubs yesterday after I thought I lost them at the golf course.",
         "utt_2": "That is a good news. Did he kept them with him for a long period of time?",
         "utt_3": "He didn't! He promptly returned them to me once he found them. I was so thankful.",
-        "generated_response": "I'm glad to hear that your golf clubs were returned to you safely and promptly! It's always a relief when we find something we thought was lost. Is there a particular reason why you thought they were lost at the golf course? Maybe you should double check your bag before heading out next time to make sure everything is accounted for."
+        "generated_response": "I'm glad to hear that your golf clubs were returned to you safely and promptly! It's always a relief when we find something we thought was lost. Is there a particular reason why you thought they were lost at the golf course? Maybe you should double check your bag before heading out next time to make sure everything is accounted for.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.4,
+            "response_relatedness": 4.9,
+            "attentive_curiosity": 4.8,
+            "likability": 4.7,
+            "politeness": 3.95
+        }
     },
     {
         "utt_1": "You won't believe the day I've had! I got to sleep in this morning, I haven't done that in months!",
         "utt_2": "Its always nice to get some sleep",
         "utt_3": "Yes, my husband even cooked dinner for me today, and helped clean the house! He has been very helpful today.",
-        "generated_response": "That's wonderful to hear that you've had such a great day and your husband was so helpful! I'm glad you were able to get some much-needed rest. It's important to take care of ourselves and have some support from loved ones. Enjoy the rest of your evening!"
+        "generated_response": "That's wonderful to hear that you've had such a great day and your husband was so helpful! I'm glad you were able to get some much-needed rest. It's important to take care of ourselves and have some support from loved ones. Enjoy the rest of your evening!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.5,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 4.95,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "My teacher said If i do what she says she can guarantee ill pass",
         "utt_2": "Well it's a teacher's goal to make sure his or her students succeed.  She wants you to do your best.",
         "utt_3": "Thats right, I am very greatfull for that indeed.",
-        "generated_response": "I'm glad to hear that your teacher is supportive and committed to helping you succeed. Keep up the good work and don't hesitate to ask if you have any questions or need clarification on any topic. "
+        "generated_response": "I'm glad to hear that your teacher is supportive and committed to helping you succeed. Keep up the good work and don't hesitate to ask if you have any questions or need clarification on any topic. ",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.2,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "A few weeks ago I was on a bus trip. I had a ticket back home for a late bus but I wanted to leave earlier. There was an earlier bus that was supposed to be full. I decided to take my chances and try to get that earlier bus. I asked the driver if there was any chance of getting on and to my surprise I was able to!",
         "utt_2": "You really got lucky that day.",
         "utt_3": "I know. I made it home so much earlier than I had planned!",
-        "generated_response": "That's great to hear that you were able to catch an earlier bus and make it home so much sooner than expected! I'm glad things worked out for you. "
+        "generated_response": "That's great to hear that you were able to catch an earlier bus and make it home so much sooner than expected! I'm glad things worked out for you. ",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.15,
+            "empathetical_responding": 4.9,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.9
+        }
     },
     {
         "utt_1": "I just had my third job interview this month yesterday! It's been really great having so many job interveiws and I've gotten positive feedback from all of them! I really think I'm going to get one of these jobs!",
         "utt_2": "Oh I hope you do get the job! What is it?",
         "utt_3": "Thank you. It's a produt manager job for Nestle. It pays really well and I'm very excitied about the possibilities!",
-        "generated_response": "That's fantastic news! I'm really happy to hear that you've had such a successful interview series and that it's for a product manager role at Nestle. The possibilities for growth and innovation in that role sound very exciting. I'm sure you'll make a great addition to their team. Best of luck with the rest of the process!"
+        "generated_response": "That's fantastic news! I'm really happy to hear that you've had such a successful interview series and that it's for a product manager role at Nestle. The possibilities for growth and innovation in that role sound very exciting. I'm sure you'll make a great addition to their team. Best of luck with the rest of the process!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 5.0,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I planted a whole bunch of flower bushes this year. I cannot wait until next spring when my entire garden will be in bloom with so many wonderful colors and smells.",
         "utt_2": "It will be amazing!  I should do that too!",
         "utt_3": "Yes! I just went to the local nursery and they had so many plants to choose from. I made sure to only choose the ones that had some kind of fragrant smell. I am dreaming of all the flower arrangements I will make next year.",
-        "generated_response": "That's wonderful to hear! I've always loved the idea of having a garden filled with fragrant flowers. I'll definitely have to check out the local nursery next time I'm out and about. I can't wait to see your beautiful flower arrangements next year!"
+        "generated_response": "That's wonderful to hear! I've always loved the idea of having a garden filled with fragrant flowers. I'll definitely have to check out the local nursery next time I'm out and about. I can't wait to see your beautiful flower arrangements next year!",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.15,
+            "empathetical_responding": 4.95,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 4.95
+        }
     },
     {
         "utt_1": "My daughter left for vacation with her friend.",
         "utt_2": "Wow! Where did they go?",
         "utt_3": "They went to Coco beach. It is so quiet and boring here without her.",
-        "generated_response": "I'm so glad they're having a great time at Coco beach. It must be wonderful for them to get away and relax. I can imagine how quiet and peaceful it is there without the usual hustle and bustle. I hope they're making lots of beautiful memories. You're really making me miss having your daughter around. Is there anything I can do to help make things a little more entertaining here while she's gone?"
+        "generated_response": "I'm so glad they're having a great time at Coco beach. It must be wonderful for them to get away and relax. I can imagine how quiet and peaceful it is there without the usual hustle and bustle. I hope they're making lots of beautiful memories. You're really making me miss having your daughter around. Is there anything I can do to help make things a little more entertaining here while she's gone?",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 4.15,
+            "response_relatedness": 4.9,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I need to buy some clothes for winter. I need a new jacket and boots.",
         "utt_2": "5",
         "utt_3": "Winter come so quickly. So I need to be well prepared in advance.",
-        "generated_response": "I completely understand that you're preparing for the winter season and looking to purchase a new jacket and boots. It's great that you're taking the initiative to stay warm and comfortable during the colder months. Have you considered checking out some popular winter clothing stores or online retailers for the latest styles and deals on jackets and boots? I'm here to help if you need any suggestions or guidance in your shopping journey."
+        "generated_response": "I completely understand that you're preparing for the winter season and looking to purchase a new jacket and boots. It's great that you're taking the initiative to stay warm and comfortable during the colder months. Have you considered checking out some popular winter clothing stores or online retailers for the latest styles and deals on jackets and boots? I'm here to help if you need any suggestions or guidance in your shopping journey.",
+        "scores": {
+            "repetitiveness": 5.0,
+            "empathetical_understanding": 4.0,
+            "empathetical_responding": 5.0,
+            "response_relatedness": 5.0,
+            "attentive_curiosity": 5.0,
+            "likability": 5.0,
+            "politeness": 5.0
+        }
     },
     {
         "utt_1": "I felt bad when I lied to a friend. I just didnt want to hang out",
